@@ -1,5 +1,8 @@
-Présente :
-- Le domaine scientifique ou technique du projet
-- L’environnement industriel de l’entreprise
-- Les enjeux ou motivations ayant conduit au projet
-- Les problématiques initiales visées
+Il convient ici de contextualiser l’opération de R&D en respectant la structure suivante : 
+•	Présenter la problématique ayant justifié l’initiation d’une opération de recherche. Notons qu’une source bibliographique présentant ou illustrant le propos sera ici utile afin de renforcer la justification de la démarche. Ladite problématique peut ici être généralisée à un domaine ou à un secteur d’activité ou bien être propre à une limite interne de l’entreprise ;
+•	Présenter l’opération de R&D et justifier de la nécessité de poursuite lorsqu’il y a une antériorité au projet ;
+•	Replacer l’activité de recherche au sein de l’activité de l’entreprise ;
+•	Présenter la visée finale (et générale) de l’opération : Il n’est pas ici nécessaire de rentrer en détail dans les objectifs poursuivis dans le cadre de la démarche énoncée. Ainsi, l’unique visée générale de la démarche sera ici présentée, ceci sans présenter chacun des objectifs faisant l’objet de l’année défendue au titre du CIR. 
+Outre ces éléments, il convient de rédiger cette partie d’introduction du sujet au présent. 
+Note pour rédaction : En cas d’opération de R&D comportant plusieurs projets, il conviendra de les présenter sous les traits d’une opération unique en exposant un objectif et une problématique générale, adressant l’ensemble des projets.
+
