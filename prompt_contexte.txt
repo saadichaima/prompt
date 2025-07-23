@@ -1,0 +1,5 @@
+Présente :
+- Le domaine scientifique ou technique du projet
+- L’environnement industriel de l’entreprise
+- Les enjeux ou motivations ayant conduit au projet
+- Les problématiques initiales visées
