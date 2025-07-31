@@ -1,5 +1,11 @@
-Résumer ici, en reprenant chacune des problématiques énoncées précédemment, les résultats obtenus sur ces dernières. La rédaction sera ici au passé composé.
-En outre, un projet de recherche se doit de pouvoir dépasser les frontières de son propre contexte de développement et ainsi être en mesure d’être externalisé à d’autres cas. Dans ce cadre, il sera nécessaire de démontrer les apports du projet au regard du domaine. Ainsi, cette transférabilité des travaux devra transparaître au travers de : 
-•	La description du savoir ou du savoir-faire développé à l’issue de l’opération de R&D et la mise en exergue des connaissances apportées au sujet considéré ;
-•	La justification de ce savoir/savoir-faire comme éléments de nouveauté pouvant être appliqué à d’autres cas.
-
+Résumer  ici,  les  résultats  obtenus  pour  chacun  des  [verrous]  identifiés précédemment, tu 
+les citeras explicitement. La rédaction devra clairement faire apparaître les avancées réalisées : 
+hypothèses, travaux, résultats
+Par ailleurs, un projet de recherche doit pouvoir présenter un potentiel d'application plus large. 
+Il conviendra donc de mettre en évidence la transférabilité des travaux en s'appuyant sur deux axes 
+complémentaires :
+•La description du savoir ou savoir-faire acquis au cours de l’opération de R&D, et
+la mise en lumière des connaissances nouvelles apportées au domaine concerné ;
+•La justification de la nouveauté de ce savoir/savoir-faire, en expliquant en quoi il peut être 
+réutilisé dans d'autres contextes ou pour résoudre des problématiques
+similaires.
