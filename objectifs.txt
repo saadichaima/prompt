@@ -1,19 +1,10 @@
-La visée de cette partie est celle de mettre en avant le détail des objectifs poursuivis par l’opération de R&D. Ainsi, il conviendra de présenter avec précision des objectifs ciblés et au maximum chiffrés (performances). Pour l’énonciation de ces objectifs, on utilisera le présent. 
-En outre, pour chaque objectif énoncé, un état de l’art sera réalisé afin de mettre en avant le caractère inédit de la visée finale au regard des connaissances existantes. En ce sens, il conviendra de s’appuyer sur des publications scientifiques ou techniques (Thèses, rapports de recherches, articles scientifiques, etc.). Concernant le point particulier des brevets, ces derniers peuvent être présentés néanmoins, il est préférable de privilégier les documents présentés précédemment. 
-Les publications doivent être annoncées entre crochet [NOM, ANNEE], puis commentées. Dans ce cadre, la description des publications devra se faire au présent lorsque la mise en regard avec les travaux présenter sera au passé. Citer entre guillemets et en italique les passages pertinents. En fin de document, donner la référence complète. 
-Exemple : D’après les travaux de K-F. Chow et al., leur nouvelle technique de détection de l’hybridation des oligonucléotides permet de « contrôler le potentiel interfacial de multiples électrodes bipolaires bien définies, à l'aide de seulement deux fils » [CHOW, 2008]. Néanmoins, aucune donnée quantitative n’est ici décrite. Par conséquent, nous ne pouvions en rien nous reposer sur ces éléments.
-
-Chaque publication doit être :
-•	Antérieure aux travaux présentés (par exemple, pour un projet 2020, on pourra prendre les publications de 2015 à 2019) ;
-•	Mise en regard du projet présenté : il est question de bien mettre en avant l’infériorité des recherches présentées quant aux visées souhaitées : Au travers de cet exercice, il sera possible de dégager les verrous techniques du projet, il est donc très important de bien identifier et de bien mettre en avant les manquements de l’Etat de l’Art ;
-•	En corrélation avec le domaine technique dans lequel se situent les travaux.
-
-Note pour rédaction : En cas de poursuite de travaux, il est possible de reprendre l’état de l’art réalisé l’année précédente. Néanmoins, il convient de vérifier sa pertinence au regard des nouvelles problématiques du projet (il est ici possible de ne reprendre qu’une partie de l’EA). De plus, s’il apparaît toujours en accord avec ces dernières, une mise à jour sera nécessaire (ajout de plusieurs publication) tous les ans.
-
-Chaque état de l’art, lié à un objectif, devra ensuite se conclure sur le verrou correspondant. Pour ce faire, il sera uniquement nécessaire, après une rapide phrase d’introduction, de formuler le verrou.
-Cette section verrou est capitale dans le cadre de la valorisation d’un projet de recherche. En effet, elle synthétise toute la dimension R&D d’un projet. Par conséquent, il est très important de la construire avec concision mais précision.
-Pour cela, il est possible de présenter les verrous sous forme de question. Il sera ici possible d’adjoindre à chaque verrou une rapide description afin de préciser ce dernier. En matière de rédaction pure, le verrou sera présenté au présent.
-D’autre part, il faut bien veiller à ne pas multiplier les verrous techniques. En effet, un unique verrou peut tout à fait être suffisant. 
-En définitive, la structure du document sera donc la suivante : N objectifs/N parties de l’EA/N verrous/N parties de travaux.
-Point d’attention : Il est important de bien différencier la problématique de l’objectif : En effet, l’objectif est la visée finale à atteindre, la problématique est le problème technique empêchant d’atteindre cette dernière. Il faut donc ici bien veiller à ne pas transformer l’objectif, précédemment énoncé, en question.
-
+Aide-moi à faire un état de l'art Le but de cet état de l'art est de justifier les limites des 
+connaissances scientifiques ou incertitudes, justifiant ainsi la nécessité de mon programme de 
+recherche : "OBJECTIF"  basé sur des publications scientifiques : articles, thèse, consortium, 
+papiers, etc. publiées entre 2016 et 2021, tu peux prendre des articles plus vieux pour la mise en 
+contexte.
+Je veux que tu t'appuies directement sur ces publications au sein du textes, tu mentionneras ces 
+publications sous la forme ["NOM",**ANNEE de publication**], Tu feras une bibliographie exhaustive 
+à la fin
+tu prendras si possible au moins 10 sources différentes
+Ce texte est écrit sur un ton scientifique / académique à destination d'expert
