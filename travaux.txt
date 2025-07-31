@@ -1,15 +1,11 @@
-Synthèse des travaux réalisés en année N
-Cette partie peut être déclinée selon le nombre d’années de recherche valorisée. 
-Tout l’enjeu est ici celui de présenter la démarche itérative avec précision mais concision. Chaque partie correspondra ainsi aux travaux relatifs à la levée des problématiques précédemment présentées (1 sous-section = une problématique).
-En matière de présentation, il conviendra de mettre en lumière les différentes hypothèses de recherche énoncées et les travaux afférents, ce en se concentrant sur la résolution des problématiques techniques rencontrées. 
+À partir du document en pièce jointe, aide-moi à rédiger la partie – Description de la démarche 
+suivie et des travaux réalisés.
+Commence par rappeler le verrou que notre programme tente de résoudre
+Présenter de façon précise mais concise la démarche expérimentale suivie, en la structurant  autour 
+ de  la  résolution  des  verrous  techniques  identifiés. Chaque sous-partie devra correspondre à 
+un verrou levé, en mettant en lumière :
+•Les hypothèses de recherche formulées,
+•Les travaux menés pour éprouver ces hypothèses,
+•Les résultats obtenus.
 
-Concernant les règles de rédaction, il sera important de :
-•	Privilégier le passé composé pour la rédaction des travaux (l’imparfait pouvant être utilisé pour des soucis de concordance des temps) ;
-•	Utiliser systématiquement le « nous » afin de se mettre littéralement à la place du client. Le « on » ne devra jamais être utilisé ;
-•	Ne jamais abréger les mots. On n’utilisera uniquement les abréviations consacrées, qui devront apparaître en italique, comme etc. ou al. par exemple ;
-•	Faire apparaître chaque mot en anglais ou latin (ou dans une autre langue) en italique ;
-•	Expliciter chaque mot technique ou spécifique en note de bas de page ;
-•	Garder un certain niveau de langage (aucune familiarité de langage) ;
-•	Faire un renvoi pour chaque figure présentée soit en indiquant : (cf. Figure 1), soit en intégrant le renvoi à une phrase : comme présenté en figure 1 (ici, le mot figure comportera un f minuscule) ;
-•	Faire un renvoi aux annexes présentées selon le modèle : cf. annexe 1.1 : « Titre de l’annexe », cf. annexe 1.2 : « Titre de l’annexe », cf. annexe 1. 3 : « Titre de l’annexe ».
-•	En cas d’information manquante, ne pas hésiter à formaliser, directement dans le corps du texte, une question au client.
+Tu te baseras sur les documents suivants : 
