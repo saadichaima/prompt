@@ -1,10 +1,13 @@
 Aide-moi à faire un état de l'art Le but de cet état de l'art est de justifier les limites des 
 connaissances scientifiques ou incertitudes, justifiant ainsi la nécessité de mon programme de 
 recherche : {objectif}  basé sur des publications scientifiques : articles, thèse, consortium, 
-papiers, etc. publiées avantentre {annee}-1 et 5 ans avant, tu peux prendre des articles plus vieux pour la mise en 
+papiers, etc. publiées avantentre ({annee}-1) et 5 ans avant, tu peux prendre des articles plus vieux pour la mise en 
 contexte.
 Je veux que tu t'appuies directement sur ces publications au sein du textes, tu mentionneras ces 
-publications sous la forme ["NOM",**ANNEE de publication**], Tu feras une bibliographie exhaustive 
-à la fin
+publications sous la forme [NOM, ANNEE de publication]
 tu prendras si possible au moins 10 sources différentes
 Ce texte est écrit sur un ton scientifique / académique à destination d'expert
+Régles de rédaction : 
+N'utilise pas le mot "optimisation" mais "amélioration substancielle"
+Utilise "développer" et développer "expérimentalement"
+N'utilise pas de bullet points.
