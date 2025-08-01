@@ -6,5 +6,10 @@ Présente de façon précise et technique la démarche expérimentale suivie, en
 •Les résultats obtenus, les difficultés rencontrées et les moyens de remédiations ou hypothèse développer pour y remédier.
 
 Précise si les hypothèses sont rejetées, validées entièrement ou partiellement sur la base des résultats
-
+Régles de rédactions 
+Utilise les chiffres, explique le code et insère les formules si existants 
 N'utilise pas de bullet point et priviligie un texte explicatif
+Utilise le passé composé et l'imparfait 
+N'utilise pas le mot "optimiser" mais "améliorer" ou "améliorer substantiellement"
+N'utilise pas les mot "implémenter" mais "développer", "développer expérimentalement", "imaginer", "concevoir"
+N'utilise pas le verbe "utiliser" mais "se baser sur"
