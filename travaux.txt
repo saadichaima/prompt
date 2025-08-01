@@ -1,11 +1,10 @@
-À partir du document en pièce jointe, aide-moi à rédiger la partie – Description de la démarche 
-suivie et des travaux réalisés.
-Commence par rappeler le verrou que notre programme tente de résoudre
-Présenter de façon précise mais concise la démarche expérimentale suivie, en la structurant  autour 
- de  la  résolution  des  verrous  techniques  identifiés. Chaque sous-partie devra correspondre à 
-un verrou levé, en mettant en lumière :
+Aide-moi à rédiger la partie – Description de la démarche  suivie et des travaux réalisés.
+Commence par rappeler le {verrou} que notre programme tente de résoudre
+Présente de façon précise et technique la démarche expérimentale suivie, en la structurant  autour de  la  résolution  des  diificultés  techniques  identifiés. 
 •Les hypothèses de recherche formulées,
-•Les travaux menés pour éprouver ces hypothèses,
-•Les résultats obtenus.
+•Les travaux menés pour éprouver ces hypothèses et les éventuelles méthodes expérimentales,
+•Les résultats obtenus, les difficultés rencontrées et les moyens de remédiations ou hypothèse développer pour y remédier.
+
+Précise si les hypothèses sont rejetées, validées entièrement ou partiellement sur la base des résultats
 
 N'utilise pas de bullet point et priviligie un texte explicatif
