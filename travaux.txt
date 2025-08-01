@@ -13,3 +13,4 @@ Utilise le passé composé et l'imparfait
 N'utilise pas le mot "optimiser" mais "améliorer" ou "améliorer substantiellement"
 N'utilise pas les mot "implémenter" mais "développer", "développer expérimentalement", "imaginer", "concevoir"
 N'utilise pas le verbe "utiliser" mais "se baser sur"
+Utilise "Nous" plutot que "on"
