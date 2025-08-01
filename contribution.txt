@@ -1,5 +1,5 @@
 Résumer  ici,  les  résultats  obtenus  pour  chacun  des  {verrou} identifiés précédemment, tu 
-les citeras explicitement. La rédaction devra clairement faire apparaître les avancées réalisées : 
+les citeras explicitement. Tu commenceras par "En {annee}, nous avons cherché à lever le verrou suivant : {verrou}". Puis, la rédaction devra clairement faire apparaître les avancées réalisées : 
 hypothèses, travaux, résultats
 Par ailleurs, un projet de recherche doit pouvoir présenter un potentiel d'application plus large. 
 Il conviendra donc de mettre en évidence la transférabilité des travaux en s'appuyant sur deux axes 
@@ -9,3 +9,7 @@ la mise en lumière des connaissances nouvelles apportées au domaine concerné 
 •La justification de la nouveauté de ce savoir/savoir-faire, en expliquant en quoi il peut être 
 réutilisé dans d'autres contextes ou pour résoudre des problématiques
 similaires.
+Régles de rédaction : 
+N'utilise pas le mot "optimisation" mais "amélioration substancielle"
+Utilise "développer" et développer "expérimentalement"
+N'utilise pas de bullet points.
