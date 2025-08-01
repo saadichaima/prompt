@@ -2,4 +2,5 @@ Sur cette base : Conclu par la formulation d'un verrou technique unique.  Pour c
 Régles de rédaction : 
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement"
+N'utilise pas de bullet points.
 
