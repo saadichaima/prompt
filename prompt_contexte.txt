@@ -8,6 +8,21 @@ antériorité au projet ;
 • Replacer l’activité de recherche au sein de l’activité de l’entreprise ;
 • Présenter la visée finale (et générale) de l’opération : Il n’est pas ici nécessaire de rentrer 
 en détail dans les objectifs poursuivis dans le cadre de la démarche énoncée. Ainsi, l’unique visée 
-générale de la démarche sera ici présentée, ceci sans
+générale de la démarche sera ici présentée.
+
+Régle de rédaction : 
+N'utilise pas de titre intermédiaire 
+N'utilise pas de bullet points 
+N'emploie pas "optimiser" mais "améliorer " ou "améliorer substantiellement
+N'emploie pas "Appliquer" ou "utiliser" mais "développer expérimentalement" ou "développer sur (une technologie)" ou "en travaillant à partir de", "élaborer", "construire" ou autre 
+Plutôt qu'employer "utiliser" en parlant des résultats utilise "éprouver" ; 
+Plutôt qu'employer "utiliser" suite à un arbitrage, utilise "choisir" 
+N'emploie pas "on" mais "nous"
+N'emploie pas "besoin" mais "cadre applicatif" 
+N'emploie pas "solution" ou "produit" mais "technologie"
+N'emploie pas "en termes de" mais "en matière de"
+N'emploie pas "implémenter", , "concevoir" "implémentation", « utilisation » « emploi » « intégration »,"configurer","paramètre","fabrique","mettre en conformité","faisabilité", "design", ni leur dérivé
+Tu n'as pas le droit d'employer les mots : "innovant", "novateur", "fonctionnalité", 'mettre en place", "mettre au point", "conception","concevoir", "implémentation", « utilisation » « emploi » « intégration»,"configurer","paramètre","fabrique","mettre en conformité","faisabilité", "design", ni leur dérivé
+
 
 
