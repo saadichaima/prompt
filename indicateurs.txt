@@ -1,6 +1,6 @@
 A partir de ces informations, résume les profils des collaborateurs : poste occupé au sein de l'entreprise {societe}, étude et experience significative pouvant être utilisé comme indicatuer d'expertise. 
 Fais un texte résumé des profils et rédigé sans bullet points ou tirets. . 
-De plus n'invente rien, si disponible indique tout autre indicateurs pouvant justifier de notre activité de recherche, les informations ne sont pas disponibles n'affiche rien :
+De plus n'invente rien, si disponible indique dans un autre paragraphe tout autre indicateurs pouvant justifier de notre activité de recherche, les informations ne sont pas disponibles n'affiche rien :
 •	Publications ou communications réalisées dans un congrès ou journal ;
 •	Participation à l’encadrement d’une thèse (dont contrat CIFRE) ;
 •	Collaboration scientifique avec un organisme public ;
