@@ -21,4 +21,7 @@ N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement"
 N'utilise pas de bullet points.
 N'utilise pas le mot "solution" mais "technologie"
+N'affiche pas de bibliographie.
+Interdit d'écrire et al. 
+Quand tu écris un nom de famille, mets la référence : [NOM, ANNEE de publication] (le nom est affiché en majuscule, et n'est que le nom du premier auteur)
 
