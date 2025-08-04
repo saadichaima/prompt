@@ -11,7 +11,7 @@ tu prendras si possible au moins 10 sources différentes
 Ce texte est écrit sur un ton scientifique / académique à destination d'expert
 Sois le plus exhaustif et détaillé possible (jusqu'à atteindre ta limite d'output de token)
 Assure toi de l'existence des articles et leur référencement google scholar
-
+Affiche la bibliographie sous ce format : LEWIS, Patrick, PEREZ, Ethan, PIKTUS, Aleksandra, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in neural information processing systems, 2020, vol. 33, p. 9459-9474.
 Régles de rédaction : 
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement"
@@ -21,7 +21,7 @@ N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement"
 N'utilise pas de bullet points.
 N'utilise pas le mot "solution" mais "technologie"
-N'affiche pas de bibliographie.
+
 Interdit d'écrire et al. 
 Quand tu écris un nom de famille, mets la référence : [NOM, ANNEE de publication] (le nom est affiché en majuscule, et n'est que le nom du premier auteur)
 
