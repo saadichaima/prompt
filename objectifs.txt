@@ -9,7 +9,7 @@ Puis définis rapidement les technologies étudiées
 Enfin fait l'état de l'art
 tu prendras si possible au moins 10 sources différentes
 Ce texte est écrit sur un ton scientifique / académique à destination d'expert
-Sois le plus exhaustif possible 
+Sois le plus exhaustif et détaillé possible (jusqu'à atteindre ta limite d'output de token)
 
 Régles de rédaction : 
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
