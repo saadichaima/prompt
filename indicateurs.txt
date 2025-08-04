@@ -1,6 +1,6 @@
 A partir de ces informations, résume les profils des collaborateurs : poste occupé au sein de l'entreprise {societe}, étude et experience significative pouvant être utilisé comme indicatuer d'expertise. 
 De plus n'invente rien, si disponible indique tout autre indicateurs pouvant justifier de notre activité de recherche : matériel, publication, participation à des salons, consortium ou groupe.
-
+Fais un texte résumé des profils et rédigé. 
 Cette partie a pour vocation de présenter les indicateurs forts faisant montre de la réalisation d’une démarche de recherche. Ainsi, la visée est ici celle de mettre en avant des éléments relatifs à : 
 •	Publications ou communications réalisées dans un congrès ou journal ;
 •	Participation à l’encadrement d’une thèse (dont contrat CIFRE) ;
