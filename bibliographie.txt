@@ -1,1 +1,1 @@
-Retrouve les articles scientifiques issus de ce texte {EA} et affiche uniquement la bibliographie au format ISO 690
+Retrouve les articles scientifiques issus de ce texte {objet} et affiche uniquement la bibliographie au format ISO 690
