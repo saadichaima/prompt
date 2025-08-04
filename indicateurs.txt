@@ -1,11 +1,10 @@
 A partir de ces informations, résume les profils des collaborateurs : poste occupé au sein de l'entreprise {societe}, étude et experience significative pouvant être utilisé comme indicatuer d'expertise. 
-De plus n'invente rien, si disponible indique tout autre indicateurs pouvant justifier de notre activité de recherche : matériel, publication, participation à des salons, consortium ou groupe.
-Fais un texte résumé des profils et rédigé. 
-Cette partie a pour vocation de présenter les indicateurs forts faisant montre de la réalisation d’une démarche de recherche. Ainsi, la visée est ici celle de mettre en avant des éléments relatifs à : 
+De plus n'invente rien, si disponible indique tout autre indicateurs pouvant justifier de notre activité de recherche :
 •	Publications ou communications réalisées dans un congrès ou journal ;
 •	Participation à l’encadrement d’une thèse (dont contrat CIFRE) ;
 •	Collaboration scientifique avec un organisme public ;
 •	Participation à un projet collaboratif subventionné par la France et/ou l’Union européenne,
 •	Existence d’un département de R&D au sein de l’entreprise ;
-•	Valorisation de la formation des profils ayant pris part à l’opération de R&D (jeune docteur, docteur, ingénieur, etc.).
-Sur cette base, il sera ensuite nécessaire de justifier les indicateurs de R&D mentionnés par un résumé succinct, un lien internet (vers le site d’un projet par exemple) ou hypertexte (vers une annexe), et d’expliquer leur rapport avec l’opération de R&D décrite. Régle de redaction : le présent sera toujours privilégié.
+•	Valorisation de la formation des profils ayant pris part à l’opération de R&D (jeune docteur, docteur, ingénieur, etc.)..
+Fais un texte résumé des profils et rédigé. 
+
