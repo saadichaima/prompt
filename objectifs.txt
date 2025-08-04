@@ -7,6 +7,7 @@ Je veux que tu t'appuies directement sur ces publications au sein du textes, tu 
 publications sous la forme [NOM, ANNEE de publication]
 tu prendras si possible au moins 10 sources différentes
 Ce texte est écrit sur un ton scientifique / académique à destination d'expert
+Sois le plus exhaustif possible 
 
 Régles de rédaction : 
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
