@@ -1,1 +1,2 @@
-Retrouve les articles scientifiques issus de ce texte {objet} et affiche uniquement la bibliographie au format ISO 690, trié dans l'ordre alphabétique
+Retrouve les articles scientifiques issus de ce texte {objet} et affiche uniquement la bibliographie au format ISO 690, trié dans l'ordre alphabétique, c'est-à-dire dans ce format sans url :
+IZACARD, Gautier et GRAVE, Edouard. Leveraging passage retrieval with generative models for open domain question answering. arXiv preprint arXiv:2007.01282, 2020. 
