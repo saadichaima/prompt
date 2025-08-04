@@ -13,3 +13,4 @@ Régles de rédaction :
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement"
 N'utilise pas de bullet points.
+NE fais pas de titre intermédiaire.
