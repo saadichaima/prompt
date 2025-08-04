@@ -1,1 +1,1 @@
-Si des information relatives à notre {societe} sur d'éventuels partenariats de recherche sont disponible mentionne les sinon affiche : N/A
+Si des information relatives à notre {societe} sur d'éventuels partenariats de recherche sont disponible mentionne les sinon affiche UNIQUEMENT : N/A
