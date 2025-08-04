@@ -4,6 +4,9 @@ recherche : {objectif}  basé sur des publications scientifiques : articles, th�
 papiers, etc. publiées antérieurement à {annee} (aucune publication datant de {annee}).
 Je veux que tu t'appuies directement sur ces publications au sein du textes, tu mentionneras ces 
 publications sous la forme [NOM, ANNEE de publication] (le nom est affiché en majuscule, et n'est que le nom du premier auteur)
+Commences par l'annonce de notre objectif de recherche
+Puis définis rapidement les technologies étudiées 
+Enfin fait l'état de l'art
 tu prendras si possible au moins 10 sources différentes
 Ce texte est écrit sur un ton scientifique / académique à destination d'expert
 Sois le plus exhaustif possible 
