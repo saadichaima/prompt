@@ -1,1 +1,1 @@
-Extrait la bibliographie et affiche la classé alphabétiquement
+Recherche les référence de ce texte, les références sont entre []. Puis tu afficheras en sorties uniquement la bibliographie de ces références selon la norme ISO 690 sans inclure d'url
