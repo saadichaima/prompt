@@ -11,7 +11,7 @@ en détail dans les objectifs poursuivis dans le cadre de la démarche énoncée
 générale de la démarche sera ici présentée.
 
 Si tu cites des articles scientifiques tu les citeras sous cette forme [NOM,ANNEE], avec le nom du premier auteur en majuscule 
-et tu afficheras la bibliographie à la fin 
+et tu afficheras la bibliographie à la fin. Tu feras attention A l'exctitude des articles scientifiques et du nom de famille de l'auteur et tu citeras des sources antérieures à {annee}
 
 Régle de rédaction : 
 N'utilise pas de titre intermédiaire 
