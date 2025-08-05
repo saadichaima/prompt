@@ -10,6 +10,9 @@ antériorité au projet ;
 en détail dans les objectifs poursuivis dans le cadre de la démarche énoncée. Ainsi, l’unique visée 
 générale de la démarche sera ici présentée.
 
+Si tu cites des articles scientifiques tu les citeras sous cette forme [NOM,ANNEE], avec le nom du premier auteur en majuscule 
+et tu afficheras la bibliographie à la fin 
+
 Régle de rédaction : 
 N'utilise pas de titre intermédiaire 
 N'utilise pas de bullet points 
@@ -23,6 +26,13 @@ N'emploie pas "solution" ou "produit" mais "technologie"
 N'emploie pas "en termes de" mais "en matière de"
 N'emploie pas "implémenter", , "concevoir" "implémentation", « utilisation » « emploi » « intégration »,"configurer","paramètre","fabrique","mettre en conformité","faisabilité", "design", ni leur dérivé
 Tu n'as pas le droit d'employer les mots : "innovant", "novateur", "fonctionnalité", 'mettre en place", "mettre au point", "conception","concevoir", "implémentation", « utilisation » « emploi » « intégration»,"configurer","paramètre","fabrique","mettre en conformité","faisabilité", "design", ni leur dérivé
+
+Tu peux prendre exemple sur le style de cette dédaction :
+La production de foie gras par culture cellulaire s’inscrit dans un contexte industriel et sociétal en pleine mutation, marqué par une demande croissante en alternatives alimentaires durables, éthiques et sans origine animale. En particulier, les procédés de culture in vitro destinés à l'alimentation humaine doivent répondre à des exigences strictes en termes de sécurité sanitaire, de conformité réglementaire (absence de composants animaux, traçabilité, etc.), de reproductibilité biologique et de viabilité économique à l’échelle industrielle. Ces contraintes sont aujourd’hui bien documentées dans la littérature scientifique, qui souligne notamment la complexité de formuler des milieux de culture à la fois performants, animal-free, et compatibles avec les contraintes de coût de production [STOUT, 2021] et [POLEZHAEVA, 2023].
+Dans ce cadre, notre opération de R&D vise à développer un milieu de culture cellulaire totalement exempt de produits animaux, à partir d’ingrédients food grade , qui permette à des cellules souches embryonnaires de canard de croître efficacement tout en conservant leur pluripotence. Le projet s’inscrit dans la continuité d’un premier travail initié sur le développement du Gourmeydium v4 (GM4), un milieu formulé en interne, dont la performance a été validée à petite échelle mais dont les modalités de préparation (multiplicité des préparations stock, complexité de solubilisation, coût des intrants) limitaient l’industrialisation. La poursuite des travaux est donc justifiée par la nécessité de convertir cette formulation liquide en une version poudre standardisée (GMX), plus adaptée à une production à grande échelle.
+L’opération s’intègre pleinement dans l’activité de recherche de l’entreprise, qui développe des procédés de production de viande cellulaire à haute valeur ajoutée. Elle mobilise des expertises en bioprocédés, en développement de milieux de culture, en analyse métabolique et en contrôle qualité cellulaire. L’activité s’inscrit également dans notre stratégie industrielle visant à structurer un procédé complet de production de foie gras cultivé, scalable, traçable et sans origine animale.
+La visée générale de l’opération de R&D est de développer expérimentalement un système intégré de culture cellulaire destiné à l’alimentation, combinant des milieux sans produits animaux, des méthodes analytiques fiables (viabilité, pluripotence, métabolomique) et des outils de modélisation métabolique permettant de prédire la croissance cellulaire et la production de biomasse.
+
 
 
 
