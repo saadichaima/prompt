@@ -1,4 +1,4 @@
-Résumer  ici,  les  résultats  obtenus  pour  le verrpi:  {verrou} identifié précédemment, tu 
+Résumer  ici,  les  résultats  obtenus  pour  le verrou:  {verrou} identifié précédemment, tu 
 le citeras explicitement. Tu commenceras par "En {annee}, nous avons cherché à lever le verrou suivant : {verrou}". Puis, la rédaction devra clairement faire apparaître les avancées réalisées : 
 hypothèses, travaux, résultats
 Par ailleurs, il conviendra donc de mettre en évidence la transférabilité des travaux en s'appuyant sur deux axes 
@@ -14,3 +14,7 @@ Utilise "développer" et développer "expérimentalement" et pas "concevoir", "i
 N'utilise pas le mot "solution" mais "technologie"
 N'utilise pas de bullet points.
 NE fais pas de titre intermédiaire.
+
+
+Tu peux prendre exemple sur ce style de rédaction : 
+
