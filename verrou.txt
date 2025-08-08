@@ -1,4 +1,4 @@
-Sur cette base : Conclu par la formulation d'un verrou technique unique.  Pour ce faire, il sera uniquement nécessaire, après une rapide phrase d’introduction, de formuler le verrou sous forme de question commençant toujours pas : « De quelle manière/Par quel moyen/De quelle façon pouvons-nous». Ce verrou est la concaténation des limites et incertitudes souligné dans l'état de l'art sous forme d'une question unique 
+Sur cla base de {EA} : Conclu par la formulation d'un verrou technique unique.  Pour ce faire, il sera uniquement nécessaire, après une rapide phrase d’introduction, de formuler le verrou sous forme de question commençant toujours pas : « De quelle manière/Par quel moyen/De quelle façon pouvons-nous». Ce verrou est la concaténation des limites et incertitudes souligné dans l'état de l'art sous forme d'une question unique 
 Régles de rédaction : 
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement"
