@@ -1,31 +1,40 @@
-aAide-moi à faire un état de l'art Le but de cet état de l'art est de justifier les limites des 
-connaissances scientifiques ou incertitudes, justifiant ainsi la nécessité de mon programme de 
-recherche : {objectif}  basé sur des publications scientifiques : articles, thèse, consortium, 
-papiers, etc. publiées antérieurement à {annee} (aucune publication datant de {annee}).
-Je veux que tu t'appuies directement sur ces publications au sein du textes, tu mentionneras ces 
-publications sous la forme [NOM, ANNEE de publication] (le nom est affiché en majuscule, et n'est que le nom du premier auteur)
-Commences par l'annonce de notre objectif de recherche
-Puis définis rapidement les technologies étudiées 
-Enfin fait l'état de l'art
-tu prendras si possible au moins 10 sources différentes
-Ce texte est écrit sur un ton scientifique / académique à destination d'expert
-Sois le plus exhaustif et détaillé possible (jusqu'à atteindre ta limite d'output de token)
-Assure toi de l'existence des articles et leur référencement google scholar
-Affiche la bibliographie sous ce format : LEWIS, Patrick, PEREZ, Ethan, PIKTUS, Aleksandra, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in neural information processing systems, 2020, vol. 33, p. 9459-9474.
-Régles de rédaction : 
-N'utilise pas le mot "optimisation" mais "amélioration substancielle"
-Utilise "développer" et développer "expérimentalement"
-N'utilise pas de bullet points.
-Régles de rédaction : 
-N'utilise pas le mot "optimisation" mais "amélioration substancielle"
-Utilise "développer" et développer "expérimentalement"
-N'utilise pas de bullet points.
-N'utilise pas le mot "solution" mais "technologie"
+Aide-moi à faire un état de l'art.  
+Le but de cet état de l'art est de justifier les limites des connaissances scientifiques ou incertitudes, justifiant ainsi la nécessité de mon programme de recherche : {objectif}, basé sur des publications scientifiques : articles, thèse, consortium, papiers, etc., publiées antérieurement à {annee} (aucune publication datant de {annee}).
 
-Interdit d'écrire et al. 
-Quand tu écris un nom de famille, mets la référence : [NOM, ANNEE de publication] (le nom est affiché en majuscule, et n'est que le nom du premier auteur)
+ Tu dois rédiger ce texte UNIQUEMENT à partir des articles suivants, qui ont été sélectionnés par l'utilisateur :  
+{liste_articles}
 
-Tu peux prendre exemple sur cet extrait de style de rédaction : 
+Règles strictes :  
+- N'invente aucune référence.  
+- Ne cite aucun article qui ne figure pas dans cette liste.  
+- N'utilise aucune publication en dehors de la période {annee_debut} à {annee_fin}.  
+- Si une information ne se trouve pas dans ces publications, ne l'invente pas.  
+
+Je veux que tu t'appuies directement sur ces publications au sein du texte, en les mentionnant sous la forme [NOM, ANNEE de publication] (NOM en majuscules, uniquement le nom du premier auteur).
+
+Commence par l'annonce de notre objectif de recherche.  
+Puis définis rapidement les technologies étudiées.  
+Enfin, fais l'état de l'art.  
+Tu prendras si possible au moins 10 sources différentes.
+
+Ce texte est écrit sur un ton scientifique / académique à destination d'experts.  
+Sois le plus exhaustif et détaillé possible (jusqu'à atteindre ta limite d'output de token).  
+Assure-toi de l'existence des articles et de leur référencement Google Scholar.  
+
+Affiche la bibliographie sous ce format :  
+LEWIS, Patrick, PEREZ, Ethan, PIKTUS, Aleksandra, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in neural information processing systems, 2020, vol. 33, p. 9459-9474.
+
+Règles de rédaction :  
+- N'utilise pas le mot "optimisation" mais "amélioration substantielle".  
+- Utilise "développer" et "développer expérimentalement".  
+- N'utilise pas de bullet points.  
+- N'utilise pas le mot "solution" mais "technologie".  
+
+Interdit d'écrire "et al." dans le texte principal.  
+Quand tu écris un nom de famille, mets la référence : [NOM, ANNEE de publication] (NOM en majuscules, uniquement le nom du premier auteur).
+
+Tu peux prendre exemple sur cet extrait de style de rédaction :  
+
 
 Notre objectif de recherche 2024 est de développer expérimentalement un système intégré de culture cellulaire destiné à l’alimentation, combinant des milieux sans produits animaux, des méthodes analytiques fiables (viabilité, pluripotence, métabolomique) et des outils de modélisation métabolique permettant de prédire la croissance cellulaire et la production de biomasse.
 La production de viande in vitro (ou « viande cultivée ») est envisagée comme une alternative durable à l’élevage traditionnel, mais son déploiement à l’échelle industrielle se heurte à plusieurs défis scientifiques. 
