@@ -1,0 +1,20 @@
+Rédige la section "Gestion de la recherche" pour un dossier CIR.
+
+Contexte projet:
+- Société: {societe}
+- Année: {annee}
+- Objectif du projet: {objectif}
+- Verrou (si pertinent): {verrou}
+
+Ta source d’information est le CONTEXTE RAG (extraits des documents) qui sera fourni avant ces consignes.
+Règles:
+- N’INVENTE rien. Si l’info n’apparaît pas : “[Information non fournie]”.
+- 200–350 mots, PAS de puces, paragraphes clairs, style factuel au présent.
+
+Contenu attendu:
+- Organisation de la R&D (entité, gouvernance, rôles, processus).
+- Compétences/experts impliqués, profils/diplômes si disponibles.
+- Processus de sélection et pilotage des projets (critères scientifiques/techniques, risques, jalons).
+- Moyens: plateformes, équipements, environnements logiciels/méthodes (ex: MLOps, GxP) si cités.
+- Partenariats/sous-traitance de recherche (laboratoires, prestataires agréés), propriété intellectuelle si mentionnée.
+- Indicateurs/traçabilité (reporting, comités, livrables).
