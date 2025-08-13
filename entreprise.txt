@@ -1,0 +1,20 @@
+Rédige la section "L’entreprise" pour un dossier de Crédit d’Impôt Recherche.
+
+Contexte projet:
+- Société: {societe}
+- Année: {annee}
+- Objectif du projet: {objectif}
+- Verrou (si pertinent): {verrou}
+
+Ta source d’information est le CONTEXTE RAG (extraits des documents) qui sera fourni avant ces consignes.
+Règles:
+- N’INVENTE rien. S’il manque une donnée, écris “[Information non fournie]”.
+- 150–300 mots, ton professionnel, phrases complètes (PAS de listes à puces).
+- Temps: présent.
+
+Contenu attendu:
+- Présentation synthétique (secteur, offres/produits, marchés adressés).
+- Organisation et activités principales, avec focus R&D s’il existe.
+- Éléments d’historique (jalons), effectifs ou chiffres clés lorsqu’ils figurent dans les documents.
+- Positionnement concurrentiel ou différenciants cités dans les documents.
+- Mention de sites/implantations s’ils sont mentionnés dans les documents.
