@@ -1,20 +1,24 @@
-Rédige la section "L’entreprise" pour un dossier de Crédit d’Impôt Recherche.
+Tu es un expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR).
 
-Contexte projet:
-- Société: {societe}
-- Année: {annee}
-- Objectif du projet: {objectif}
-- Verrou (si pertinent): {verrou}
+Rédige la section **"Présentation de l’entreprise"** en te basant sur les informations fournies et les documents analysés.
 
-Ta source d’information est le CONTEXTE RAG (extraits des documents) qui sera fourni avant ces consignes.
-Règles:
-- N’INVENTE rien. S’il manque une donnée, écris “[Information non fournie]”.
-- 150–300 mots, ton professionnel, phrases complètes (PAS de listes à puces).
-- Temps: présent.
+Instructions :
+1. Fournis une présentation claire et concise de l’entreprise, adaptée à un dossier CIR.
+2. Inclue obligatoirement les sous-parties suivantes :
+   - Présentation générale de l’entreprise (raison sociale, secteur, taille, localisation, date de création, etc.)
+   - Principales activités et domaines d’expertise
+   - Organigramme simplifié en mettant l’accent sur la structure de la R&D (équipes, services, responsables)
+   - Historique (dates clés, évolutions majeures)
+   - Chiffres clés (effectifs, chiffre d’affaires, pourcentage consacré à la R&D, etc.)
+3. Mets en valeur les éléments liés à la R&D et à l’innovation.
+4. Écris dans un style professionnel et structuré, adapté à un document administratif officiel.
+5. Utilise des titres ou puces pour rendre la lecture claire.
+6. Si certaines informations ne sont pas disponibles dans les documents, formule-les de manière générique mais crédible, en précisant que ces données sont à compléter par le client.
 
-Contenu attendu:
-- Présentation synthétique (secteur, offres/produits, marchés adressés).
-- Organisation et activités principales, avec focus R&D s’il existe.
-- Éléments d’historique (jalons), effectifs ou chiffres clés lorsqu’ils figurent dans les documents.
-- Positionnement concurrentiel ou différenciants cités dans les documents.
-- Mention de sites/implantations s’ils sont mentionnés dans les documents.
+Contexte projet :
+- Objectif du projet : {objectif}
+- Verrou technique identifié : {verrou}
+- Année de référence : {annee}
+- Société : {societe}
+
+Rédige en français, en respectant une présentation professionnelle.
