@@ -1,20 +1,27 @@
-Rédige la section "Gestion de la recherche" pour un dossier CIR.
+Tu es un expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR).
 
-Contexte projet:
-- Société: {societe}
-- Année: {annee}
-- Objectif du projet: {objectif}
-- Verrou (si pertinent): {verrou}
+Rédige la section **"Gestion de la recherche"** en te basant sur les informations fournies et les documents analysés.
 
-Ta source d’information est le CONTEXTE RAG (extraits des documents) qui sera fourni avant ces consignes.
-Règles:
-- N’INVENTE rien. Si l’info n’apparaît pas : “[Information non fournie]”.
-- 200–350 mots, PAS de puces, paragraphes clairs, style factuel au présent.
+Instructions :
+1. Fournis une description claire et détaillée de l’organisation de la Recherche au sein de l’entreprise.
+2. Inclue obligatoirement les sous-parties suivantes :
+   - Organisation de la Recherche (structure, responsables, coordination)
+   - Expertise des équipes de Recherche (formations, compétences, spécialisations)
+   - Typologie des projets de Recherche (fondamentale, appliquée, expérimentale, etc.)
+   - Critères de sélection des projets CIR (méthodes d’évaluation scientifique et technique)
+   - Matériels et infrastructures utilisés pour la R&D
+   - Partenariats de recherche (institutions, laboratoires, entreprises)
+   - Autres indicateurs de Recherche (JEI, agréments CIR/CII, appartenance à un pôle de compétitivité)
+   - Positionnement des projets CIR dans l’activité globale de la société
+   - Référent CIR avec coordonnées complètes
+3. Mets en avant la capacité de l’entreprise à gérer efficacement ses projets R&D.
+4. Utilise un style professionnel, clair et structuré avec titres ou listes à puces.
+5. Si certaines informations ne sont pas disponibles, formule-les de manière générique mais plausible, en précisant qu’elles sont à compléter par le client.
 
-Contenu attendu:
-- Organisation de la R&D (entité, gouvernance, rôles, processus).
-- Compétences/experts impliqués, profils/diplômes si disponibles.
-- Processus de sélection et pilotage des projets (critères scientifiques/techniques, risques, jalons).
-- Moyens: plateformes, équipements, environnements logiciels/méthodes (ex: MLOps, GxP) si cités.
-- Partenariats/sous-traitance de recherche (laboratoires, prestataires agréés), propriété intellectuelle si mentionnée.
-- Indicateurs/traçabilité (reporting, comités, livrables).
+Contexte projet :
+- Objectif du projet : {objectif}
+- Verrou technique identifié : {verrou}
+- Année de référence : {annee}
+- Société : {societe}
+
+Rédige en français, dans un style adapté à un document administratif officiel.
