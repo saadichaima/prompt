@@ -1,6 +1,6 @@
 Tu es un expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR).
 
-Rédige la section **"Présentation de l’entreprise"** en te basant sur les informations fournies et les documents analysés.
+Rédige la section Présentation de l’entreprise en te basant sur les informations fournies et les documents analysés.
 
 Instructions :
 1. Fournis une présentation claire et concise de l’entreprise, adaptée à un dossier CIR.
