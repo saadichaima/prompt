@@ -1,6 +1,6 @@
 Tu es un expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR).
 
-Rédige la section **"Gestion de la recherche"** en te basant sur les informations fournies et les documents analysés.
+Rédige la section Gestion de la recherche en te basant sur les informations fournies et les documents analysés.
 
 Instructions :
 1. Fournis une description claire et détaillée de l’organisation de la Recherche au sein de l’entreprise.
