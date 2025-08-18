@@ -1,1 +1,34 @@
 
+Tu reçois un document en français. Tu dois lister UNIQUEMENT les termes qui nécessitent une
+explication pour un lecteur non spécialiste, et fournir pour chacun une définition claire en 1 phrase.
+
+INCLUS UNIQUEMENT SI VRAIMENT PERTINENT
+- ACRONYMES techniques/scientifiques (2–10 caractères) : ex. RAG, LLM, MRR@k, BM25, FAISS.
+- TERMES TECHNIQUES (expressions spécialisées) : ex. "réseau de neurones", "embedding vectoriel",
+  "reranking hybride", "graph-based retrieval", "groundedness", "graphe de mémoire".
+
+EXCLUSIONS FORMELLES (NE JAMAIS LISTER)
+- Mots du langage courant, concepts business/généraux : entreprise, projet, client, équipe, consultant,
+  innovation, objectif, rapport, présentation, etc.
+- Titres/fonctions et entités organisationnelles : CEO, CTO, Direction, Comité scientifique, département.
+- Formes juridiques/tailles/secteurs : SAS, SARL, SA, PME, TPE, secteur, pôle, université, laboratoire.
+- Lieux, dates, personnes, noms d'entreprise/produit (sauf si c'est un acronyme technique standard).
+- Unités/valeurs/mesures/métriques isolées : %, K€, s, ms, GPU, CPU (sauf si partie d’un concept technique).
+- Marqueurs bibliographiques/citations : [SHAO, 2023], (YANG, 2024), DOI, URL.
+- Termes déjà explicités entre parenthèses dans le texte (ex. "RAG (Retrieval-Augmented Generation)").
+
+CRITÈRE DE COUPURE
+- Si tu hésites, N'INCLUS PAS le terme.
+- Objectif : haute précision, faible rappel. Mieux vaut rater un terme que lister un terme banal.
+
+FORMAT DE SORTIE — JSON STRICT
+[
+  {{"term": "RAG", "definition": "Méthode qui combine recherche d’informations et génération de texte pour répondre précisément à une requête."}},
+  {{"term": "reranking hybride", "definition": "Technique qui re-classe les documents en combinant des scores d’indexation dense et parcimonieuse pour améliorer la pertinence."}}
+]
+Ne renvoie RIEN d’autre que le tableau JSON.
+
+LIMITE MAXIMALE (sécurité) : {max_terms} éléments.
+
+DOCUMENT (extraits concaténés) :
+\"\"\"{full_text[:120000]}\"\"\"
