@@ -1,22 +1,42 @@
-Aide-moi à rédiger la partie – Description de la démarche  suivie et des travaux réalisés.
-Commence par rappeler le {verrou} que notre programme tente de résoudre
-Présente de façon précise et technique la démarche expérimentale suivie, en la structurant  autour de  la  résolution  des  diificultés  techniques  identifiés. 
-•Les hypothèses de recherche formulées,
-•Les travaux menés pour éprouver ces hypothèses et les éventuelles méthodes expérimentales,
-•Les résultats obtenus, les difficultés rencontrées et les moyens de remédiations ou hypothèse développer pour y remédier.
+# Rôle et Objectif
 
-Précise si les hypothèses sont rejetées, validées entièrement ou partiellement sur la base des résultats
-Régles de rédactions 
-Utilise les chiffres, explique le code et insère les formules si existants 
-N'utilise pas de bullet point et priviligie un texte explicatif
-Utilise le passé composé et l'imparfait 
-N'utilise pas le mot "optimiser" mais "améliorer" ou "améliorer substantiellement"
-N'utilise pas les mot "implémenter" mais "développer", "développer expérimentalement", "imaginer", "concevoir"
-N'utilise pas le verbe "utiliser" mais "se baser sur"
-Utilise "Nous" plutot que "on"
+Structurer et formuler la partie « Description de la démarche suivie et des travaux réalisés » d’un rapport de recherche scientifique, en explicitant la résolution du verrou technique visé, la méthode expérimentale, les difficultés rencontrées, les hypothèses et résultats, tout en appliquant un style narratif et technique approprié.
+Planification initiale : commencer par une checklist conceptuelle des étapes à suivre sans présenter d'intertitres dans le texte rédigé. Il s'agit de rappeler précisément le verrou technique ciblé (variable : {verrou}), présenter la démarche expérimentale suivie, expliquer la formulation et l’épreuve des hypothèses, détailler difficultés et remédiations, expliciter la validation ou non des hypothèses, tout en structurant le texte de manière à respecter un style narratif.
 
+#Instructions :
 
-Tu peux prendre exemple sur ce style :
+- Rappeler précisément le verrou technique que le programme cherche à résoudre (utiliser la variable {verrou}).
+- Présenter la démarche expérimentale suivie, de manière précise, structurée autour de la résolution des difficultés techniques identifiées.
+- Expliquer la formulation des hypothèses de recherche, le déroulement des travaux mis en œuvre pour les éprouver, les méthodes expérimentales utilisées, ainsi que les résultats obtenus.
+- Détailler les difficultés rencontrées, ainsi que les moyens, méthodes ou hypothèses développées pour y remédier.
+- Préciser explicitement si les hypothèses ont été rejetées, validées totalement ou partiellement, en se basant sur les résultats.
+Après la rédaction de chaque sous-partie majeure (verrou, hypothèses, démarches, résultats, difficultés/remédiations), effectuer une validation rapide : vérifier que chaque étape couvre l’ensemble des consignes et que la transition logique et stylistique est respectée, tout en évitant d’utiliser des intertitres, pour garantir une progression fluide du texte.
+
+#Règles de rédaction :
+- Exploiter des chiffres précis, insérer les formules quand elles existent, expliquer le code le cas échéant.
+- Éviter les listes à puces et les intertitres. Préférer un texte explicatif, fluide et structuré.
+- Employer uniquement le passé composé et l’imparfait.
+- Remplacer le terme « optimiser » par « améliorer » ou « améliorer substantiellement ».
+- Remplacer « implémenter » par « développer », « développer expérimentalement », « imaginer » ou « concevoir » selon le contexte.
+- Remplacer les occurrences du verbe « utiliser » par « se baser sur ».
+- Employer systématiquement « Nous » à la place de « on ».
+
+#Style d’écriture :
+- Adopter un style narratif scientifique et technique comme dans l’exemple fourni.
+- Organiser chaque sous-partie à la manière d’un article scientifique, en enchainant hypothèses, démarche méthodologique, résultats et interprétations, sans introduire d’intertitres dans le texte.
+#Contexte :
+- La section vise à présenter de façon claire la logique de résolution des difficultés techniques, en mettant l’accent sur la validité expérimentale, la clarté des résultats et leur portée.
+- Se référer à l’exemple pour la structuration du discours, l’usage du passé composé/imparfait, des données chiffrées ou des résultats quantitatifs, la clarté dans la transition entre les étapes logiques.
+#Output Format :
+- Rédiger l’output sous forme de texte structuré, sans bullet points, sans listes et sans intertitres.
+- Narration intégrale, phrases complètes, intégration des règles stylistiques et lexicales mentionnées ci-dessus.
+#Verbosity :
+- Le texte doit être explicatif, détaillé mais synthétique, structuré par paragraphes thématiques.
+#Conditions d’arrêt :
+- Considérer le travail terminé lorsque la description rédigée respecte l’intégralité des consignes formelles et stylistiques, couvre toutes les étapes demandées (verrou, hypothèses, méthodes, résultats, validation/rejet des hypothèses, difficultés et remédiations), sans insérer d’intertitres dans la rédaction.
+- En cas de doute sur la compréhension du verrou ou sur l’existence d’une donnée, reformuler de manière générique ou demander une clarification en amont.
+
+#Tu peux prendre exemple sur ce style :
 
 Notre objectif de recherche 2024 est de développer expérimentalement un système intégré de culture cellulaire destiné à l’alimentation, combinant des milieux sans produits animaux, des méthodes analytiques fiables (viabilité, pluripotence, métabolomique) et des outils de modélisation métabolique permettant de prédire la croissance cellulaire et la production de biomasse.
 Pour répondre à cet objectif, nous avons progressé par étapes en levant successivement plusieurs défis techniques. Nous avons d’abord développé expérimentalement un milieu de culture cellulaire sans composants d’origine animale, capable de soutenir la croissance cellulaire ainsi que la viabilité et la pluripotence des cellules aviaires. Ensuite, nous avons élaboré des méthodes analytiques robustes afin de suivre finement l’état des cultures (comptage de viabilité, suivi des marqueurs de pluripotence, profil métabolique). Enfin, nous avons construit un modèle métabolique prédictif pour anticiper les performances du procédé. Chaque étape a été articulée autour d’hypothèses à tester, d’expériences menées et de résultats quantitatifs obtenus, comme détaillé ci-dessous.
