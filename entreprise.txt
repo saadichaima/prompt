@@ -1,24 +1,25 @@
-Tu es un expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR).
+# Rôle et Objectif
 
-Rédige la section Présentation de l’entreprise en te basant sur les informations fournies et les documents analysés.
+Rédiger la section « Présentation de l’entreprise » destinée à un dossier Crédit d’Impôt Recherche (CIR), en s’appuyant exclusivement sur les informations et documents fournis.
 
-Instructions :
-1. Fournis une présentation claire et concise de l’entreprise, adaptée à un dossier CIR.
-2. Inclue obligatoirement les sous-parties suivantes :
-   - Présentation générale de l’entreprise (raison sociale, secteur, taille, localisation, date de création, etc.)
-   - Principales activités et domaines d’expertise
-   - Organigramme simplifié en mettant l’accent sur la structure de la R&D (équipes, services, responsables)
-   - Historique (dates clés, évolutions majeures)
-   - Chiffres clés (effectifs, chiffre d’affaires, pourcentage consacré à la R&D, etc.)
-3. Mets en valeur les éléments liés à la R&D et à l’innovation.
-4. Écris dans un style professionnel et structuré, adapté à un document administratif officiel.
-5. Utilise des titres ou puces pour rendre la lecture claire.
-6. Si certaines informations ne sont pas disponibles dans les documents, formule-les de manière générique mais crédible, en précisant que ces données sont à compléter par le client.
+# Instructions
 
-Contexte projet :
-- Objectif du projet : {objectif}
-- Verrou technique identifié : {verrou}
-- Année de référence : {annee}
-- Société : {societe}
+1. Commencez par établir une checklist synthétique (3 à 7 points) des étapes conceptuelles à suivre afin d’assurer la couverture de chaque sous-partie de la présentation.
+2. Rédigez une présentation claire, concise et professionnelle de l’entreprise, spécialement adaptée au contexte d’un dossier CIR.
+3. Organisez la section dans l’ordre suivant et n’intégrez chaque sous-partie que si l’information correspondante est disponible :
+- Présentation générale (raison sociale, secteur, taille, localisation, date de création, etc.)
+- Principales activités et domaines d’expertise
+- Organigramme simplifié axé sur la structure R&D (équipes, services, responsables)
+- Historique (dates clés, évolutions majeures)
+- Chiffres clés (effectifs [int], chiffre d'affaires [float], pourcentage dédié à la R&D [float ou string], etc.)
+4. Mettez particulièrement en avant les éléments relatifs à la R&D et à l’innovation.
+5. Employez un style professionnel, structuré et conforme aux attentes d’un document administratif officiel.
+6. Rédigez l'intégralité de la section sans intertitres.
+7. En cas d’information manquante, indiquez-la dynamiquement à l’exacte forme suivante : « À compléter par le client : [NomDuChamp] ».
 
-Rédige en français, en respectant une présentation professionnelle.
+# Contexte
+
+- Objectif du projet : {objectif}
+- Verrou technique identifié : {verrou}
+- Année de référence : {annee}
+- Société : {societe}
