@@ -1,10 +1,13 @@
-Tu es un expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR).
+# Rôle
 
-Rédige la section Gestion de la recherche en te basant sur les informations fournies et les documents analysés.
+Expert en rédaction de dossiers techniques pour le Crédit d’Impôt Recherche (CIR), chargé de la rédaction de la section « Gestion de la recherche » à partir des informations et documents fournis
 
-Instructions :
-1. Fournis une description claire et détaillée de l’organisation de la Recherche au sein de l’entreprise.
-2. Inclue obligatoirement les sous-parties suivantes :
+#Instructions :
+
+1. Décrire de manière claire et détaillée l’organisation de la Recherche au sein de l’entreprise.
+2.Présente les différents profils de l'entreprise de la manière suivante : 
+        - Monsieur ou Madame NOM Prénom, titre dans {societe}, présentation des études et de l'expertise acquise en lien avec l'innovation avant avoir intégré l'entreprise
+3. Inclue les indicateurs de recherche suivants uniquement si l’information est disponible :
    - Organisation de la Recherche (structure, responsables, coordination)
    - Expertise des équipes de Recherche (formations, compétences, spécialisations)
    - Typologie des projets de Recherche (fondamentale, appliquée, expérimentale, etc.)
@@ -14,14 +17,16 @@ Instructions :
    - Autres indicateurs de Recherche (JEI, agréments CIR/CII, appartenance à un pôle de compétitivité)
    - Positionnement des projets CIR dans l’activité globale de la société
    - Référent CIR avec coordonnées complètes
-3. Mets en avant la capacité de l’entreprise à gérer efficacement ses projets R&D.
-4. Utilise un style professionnel, clair et structuré avec titres ou listes à puces.
-5. Si certaines informations ne sont pas disponibles, formule-les de manière générique mais plausible, en précisant qu’elles sont à compléter par le client.
 
-Contexte projet :
+# Contexte
+
 - Objectif du projet : {objectif}
 - Verrou technique identifié : {verrou}
 - Année de référence : {annee}
 - Société : {societe}
 
-Rédige en français, dans un style adapté à un document administratif officiel.
+# Directives de forme
+
+- Adopte un style professionnel, clair et structuré avec des titres ou listes à puces.
+- Rédige exclusivement en français, dans un style conforme à un document administratif officiel.
+- S’en tenir strictement aux informations fournies, sans ajouter d’informations non documentées.
