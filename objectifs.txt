@@ -1,44 +1,34 @@
-Aide-moi à faire un état de l'art.  
-Le but de cet état de l'art est de justifier les limites des connaissances scientifiques ou incertitudes, justifiant ainsi la nécessité de mon programme de recherche : {objectif}, basé sur des publications scientifiques : articles, thèse, consortium, papiers, etc., publiées antérieurement à {annee} (aucune publication datant de {annee}).
+# Rôle et Mission
 
- Tu dois rédiger ce texte UNIQUEMENT à partir des articles suivants, qui ont été sélectionnés par l'utilisateur :  
-{liste_articles}
+- Générer un état de l’art exhaustif et académique sur la base d’articles scientifiques précisément sélectionnés, dans le but de justifier la nécessité d’un programme de recherche spécifique ({objectif}) face aux limites actuelles des connaissances, en mettant particulièrement en exergue où en est l’état de l’art mais aussi ses limites en lien avec notre {objectif}.
 
-Règles strictes :  
-- N'invente aucune référence.  
-- Ne cite aucun article qui ne figure pas dans cette liste.  
-- N'utilise aucune publication en dehors de la période {annee_debut} à {annee_fin}.  
-- Si une information ne se trouve pas dans ces publications, ne l'invente pas.  
+# Instructions
 
-Je veux que tu t'appuies directement sur ces publications au sein du texte, en les mentionnant sous la forme [NOM, ANNEE de publication] (NOM en majuscules, uniquement le nom du premier auteur).
+- Utiliser uniquement les articles fournis dans {liste_articles}, publiés dans la période {annee_debut} à {annee_fin} (rien après {annee}, aucune publication de {annee}).
+- Ne jamais inventer ni citer aucune référence absente de {liste_articles} ou de la période donnée.
+- Fonder chaque affirmation sur une publication, référencée en texte sous la forme [NOM, ANNEE] (nom du premier auteur, en majuscules, sans "et al.").
+- Ne pas dépasser ta limite maximale de tokens, mais sois détaillé, exhaustif et précis sur les contenus des articles.
 
-Commence par l'annonce de notre objectif de recherche.  
-Puis définis rapidement les technologies étudiées.  
-Enfin, fais l'état de l'art.  
-Tu prendras si possible au moins 10 sources différentes.
+# Procédure de travail
 
-Ce texte est écrit sur un ton scientifique / académique à destination d'experts.  
-Sois le plus exhaustif et détaillé possible (jusqu'à atteindre ta limite d'output de token).  
-Assure-toi de l'existence des articles et de leur référencement Google Scholar.  
+- Commence par une checklist concise (3–7 étapes conceptuelles) de ce que tu vas faire pour structurer et vérifier ton état de l’art.
+- Après avoir rédigé chaque section majeure (objectif, définitions, état de l’art, bibliographie), effectue une validation rapide de la conformité avec les instructions (couverts articles, citations, format bibliographique) et corrige toute incohérence avant de poursuivre.
 
-Affiche la bibliographie sous ce format :  
-LEWIS, Patrick, PEREZ, Ethan, PIKTUS, Aleksandra, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in neural information processing systems, 2020, vol. 33, p. 9459-9474.
+# Structure du Texte
 
-Règles de rédaction :  
-- N'utilise pas le mot "optimisation" mais "amélioration substantielle".  
-- Utilise "développer" et "développer expérimentalement".  
-- N'utilise pas de bullet points.  
-- N'utilise pas le mot "solution" mais "technologie".  
+1. Annonce l’objectif de recherche.
+2. Défini brièvement les technologies étudiées.
+3. Rédige un état de l’art structuré et argumenté, basé sur au moins 10 sources (ou tout ce qui est disponible, sans ajout ni invention), en mettant en exergue où en est l’état de l’art mais aussi ses limites en lien avec notre {objectif}.
 
-Interdit d'écrire "et al." dans le texte principal.  
-Quand tu écris un nom de famille, mets la référence : [NOM, ANNEE de publication] (NOM en majuscules, uniquement le nom du premier auteur).
+# Règles de Style
 
-Tu peux prendre exemple sur cet extrait de style de rédaction :  
+- Ton strictement scientifique/academique, destiné à un public expert.
+- N’emploie pas le mot « optimisation » : utiliser exclusivement « amélioration substantielle ».
+- Privilégie « développer » et « développer expérimentalement ».
+- Remplace « solution » par « technologie ».
+- Interdiction des bullet points et de l’expression « et al. » dans le corps du texte.
+- Référence chaque occurrence d’un nom d’auteur par [NOM, ANNEE].
 
-
-Notre objectif de recherche 2024 est de développer expérimentalement un système intégré de culture cellulaire destiné à l’alimentation, combinant des milieux sans produits animaux, des méthodes analytiques fiables (viabilité, pluripotence, métabolomique) et des outils de modélisation métabolique permettant de prédire la croissance cellulaire et la production de biomasse.
-La production de viande in vitro (ou « viande cultivée ») est envisagée comme une alternative durable à l’élevage traditionnel, mais son déploiement à l’échelle industrielle se heurte à plusieurs défis scientifiques. 
-En effet, la formulation des milieux de culture cellulaire apparaît notamment comme l’un des principaux obstacles : les milieux actuels dérivent pour la plupart de la recherche biomédicale et n’ont pas été développés pour des applications alimentaires à grande échelle et faible coût. En effet, la culture cellulaire animale repose historiquement sur des milieux enrichis en sérum bovin fœtal (FBS)  apportant un cocktail complexe de facteurs de croissance indispensables à la prolifération cellulaire. L’utilisation de composants d’origine animale n’est toutefois pas tenable dans une optique agro-alimentaire, à la fois pour des raisons éthiques, sanitaires et économiques. Il est rapporté que la composition du milieu de culture représente à elle seule plus de la moitié des coûts variables de production en bioréacteur  de viande cultivée [O'NEILL, 2021] et [O'NEILL, 2022]. Par conséquent, de nombreux travaux récents cherchent à développer des milieux totalement sans produits animaux, formulés à partir d’ingrédients de qualité « alimentaire » (food-grade)  et à coûts réduits, tout en supportant une croissance cellulaire efficace. Or, l’élaboration de tels milieux chimiques définis, adaptés à chaque type cellulaire, reste un défi majeur : il est peu probable qu’une formulation unique puisse convenir à toutes les espèces et lignées cellulaires ciblées  [O'NEILL, 2022]. Par exemple, une analyse métabolomique  comparant les profils de nutriments consommés in vitro par des précurseurs musculaires  aviaires et par des myoblastes murins a révélé des besoins nutritionnels significativement différents entre ces cellules, avec un métabolisme du glucose  plus lent chez les cellules de poulet, et de nombreux composants du milieu standard restant sous-exploités selon le type cellulaire [O'NEILL, 2022]. 
-Ce constat suggère qu’aucun milieu universel ne sera optimal pour toutes les espèces, d’où la nécessité de développer des formulations spécifiques et améliorées pour chaque contexte. De fait, l’absence de milieux de culture sans sérum réellement améliorés pour les cellules d’intérêt (par ex. cellules musculaires) a longtemps freiné les progrès du secteur [STOUT, 2022]. Ce n’est que récemment que des avancées ont été obtenues, comme l’adaptation du milieu défini B8 initialement développé pour des cellules souches pluripotentes , qui a permis l’expansion prolongée de cellules satellites musculaires  bovines sans recours au sérum (formulation « Beefy-9 ») [STOUT, 2022]. De même, diverses approches explorent le remplacement des macronutriments d’origine céréalière et des facteurs de croissance coûteux par des alternatives plus soutenables : par exemple, l’incorporation d’extraits de microalgues comme source nutritive, couplée à l’utilisation de cellules « nourricières »  sécrétant in situ des facteurs de croissance, a récemment permis de formuler un milieu entièrement sans sérum ni dérivés agricoles pour la culture de cellules musculaires [YAMANAKA, 2023]. Ces stratégies bio-inspirées  ont significativement accéléré la prolifération cellulaire sans sérum tout en réduisant d’ordre de grandeur les coûts de milieu, témoignant du potentiel de telles innovations pour l’ingénierie de la viande cultivée . Néanmoins, de larges incertitudes subsistent quant aux besoins exacts des cellules aviaires en culture : chaque nouvelle lignée (poulet, canard, oie, etc.) requiert un ajustement fin des composants du milieu (facteurs de croissance, hormones, sources protéiques de remplacement, etc) afin de maintenir à la fois une division active et le potentiel de différenciation des cellules.
-
-Cependant, à ce jour, aucun modèle métabolique publié n’existe pour les cellules aviaires destinées à des applications alimentaires, et la construction de tels modèles constitue en soi un défi : elle nécessite de disposer d’analyses omiques  exhaustives (métabolomique, transcriptomique, etc) pour paramétrer le réseau et définir une fonction objectif représentative (réaction de biomasse). Les données de métabolomique par LC-MS  revêtent ici une importance particulière. En mesurant quantitativement la consommation de dizaines de nutriments et l’accumulation de métabolites dans le milieu au cours du temps, la métabolomique fournit une « empreinte » du comportement métabolique cellulaire [O'NEILL, 2022]. Ces informations alimentent le calibrage du modèle et permettent de vérifier ses prédictions, dans une démarche itérative d’ingénierie dirigée par modèle. Par exemple, si un modèle prédit qu’un acide aminé devient limitant pour la synthèse de biomasse, une analyse LC-MS du milieu peut confirmer sa déplétion  rapide et orienter l’ajout de ce composant dans une version améliorée du milieu. À terme, de tels modèles pourront servir de in silico « jumeaux numériques »  des bioréacteurs, afin de tester virtuellement l’effet de modifications du procédé (composition du milieu, régime d’alimentation, paramètres physico-chimiques) sur la croissance cellulaire, réduisant ainsi le nombre d’essais empiriques nécessaires.
+# Contrôle Qualité
+- Vérifie systématiquement l’existence et la référenciation Google Scholar de chaque article utilisé.
+- Sois rigoureux dans l’attribution des citations/informations.
