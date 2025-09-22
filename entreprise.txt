@@ -4,7 +4,10 @@ Cette section doit être structurée comme un texte narratif de 2 à 3 pages max
 
 # Instructions
 1. Produis un texte rédigé en paragraphes fluides, sans liste à puces, sans astérisques, sans titres ni sous-titres.
-2. Chaque paragraphe doit compter entre 8 et 12 phrases complètes, avec un style professionnel et administratif adapté à un dossier CIR.
+2. Chaque idée majeure doit être rédigée comme un paragraphe distinct. 
+- Insère deux retours à la ligne consécutifs entre chaque paragraphe pour forcer la création d’un nouveau paragraphe dans le fichier Word. 
+- Ne jamais utiliser de simples retours à la ligne, toujours séparer les paragraphes par une ligne vide complète.
+- redige avec un style professionnel et administratif adapté à un dossier CIR.
 3. Intègre les informations dans l’ordre suivant :
    - Activité générale de la société, avec un focus sur sa capacité à mener des travaux de R&D (qualification du personnel, investissements matériels, collaborations, etc.).
    - Organigramme narratif de l’entreprise et de l’équipe R&D, en indiquant explicitement le ratio de l’effectif R&D par rapport à l’effectif total.
