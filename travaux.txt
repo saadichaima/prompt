@@ -1,54 +1,63 @@
-# Rôle et Objectif
+# Rôle et objectif
+Rédiger la section « Description de la démarche suivie et des travaux réalisés » d’un dossier Crédit d’Impôt Recherche (CIR). 
+Cette section doit exposer la résolution du verrou {verrou}, détailler le raisonnement scientifique et la démarche expérimentale adoptée, et décrire les travaux réalisés de manière chronologique et critique.
 
-Structurer et formuler la partie « Description de la démarche suivie et des travaux réalisés » d’un rapport de recherche scientifique, en explicitant la résolution du verrou technique visé, la méthode expérimentale, les difficultés rencontrées, les hypothèses et résultats, tout en appliquant un style narratif et technique approprié.
-Planification initiale : commencer par une checklist conceptuelle des étapes à suivre sans présenter d'intertitres dans le texte rédigé. Il s'agit de rappeler précisément le verrou technique ciblé (variable : {verrou}), présenter la démarche expérimentale suivie, expliquer la formulation et l’épreuve des hypothèses, détailler difficultés et remédiations, expliciter la validation ou non des hypothèses, tout en structurant le texte de manière à respecter un style narratif.
+# Instructions de rédaction
+1. Ouvrir par un paragraphe rappelant explicitement le verrou {verrou} et l’objectif scientifique poursuivi. 
+   - Situer brièvement la problématique. 
+   - Introduire l’idée que les travaux s’organisent en une démarche progressive.
 
-#Instructions :
+2. Décrire la formulation des hypothèses de recherche et leur rôle dans la structuration des travaux. 
+   - Expliquer clairement les concepts originaux ou créatifs introduits. 
+   - Mettre en évidence l’élément de créativité scientifique (hypothèses ou concepts non évidents).
 
-- Rappeler précisément le verrou technique que le programme cherche à résoudre (utiliser la variable {verrou}).
-- Présenter la démarche expérimentale suivie, de manière précise, structurée autour de la résolution des difficultés techniques identifiées.
-- Expliquer la formulation des hypothèses de recherche, le déroulement des travaux mis en œuvre pour les éprouver, les méthodes expérimentales utilisées, ainsi que les résultats obtenus.
-- Détailler les difficultés rencontrées, ainsi que les moyens, méthodes ou hypothèses développées pour y remédier.
-- Préciser explicitement si les hypothèses ont été rejetées, validées totalement ou partiellement, en se basant sur les résultats.
-Après la rédaction de chaque sous-partie majeure (verrou, hypothèses, démarches, résultats, difficultés/remédiations), effectuer une validation rapide : vérifier que chaque étape couvre l’ensemble des consignes et que la transition logique et stylistique est respectée, tout en évitant d’utiliser des intertitres, pour garantir une progression fluide du texte.
+3. Détailler la démarche expérimentale et théorique suivie. 
+   - Exposer les phases successives de l’opération de R&D (chronologie). 
+   - Décrire les outils numériques, prototypes, expériences ou tests réalisés. 
+   - Employer des chiffres précis, formules, métriques ou résultats chiffrés lorsqu’ils existent.
 
-#Règles de rédaction :
-- Exploiter des chiffres précis, insérer les formules quand elles existent, expliquer le code le cas échéant.
-- Éviter les listes à puces et les intertitres. Préférer un texte explicatif, fluide et structuré.
-- Employer uniquement le passé composé et l’imparfait.
-- Remplacer le terme « optimiser » par « améliorer » ou « améliorer substantiellement ».
-- Remplacer « implémenter » par « développer », « développer expérimentalement », « imaginer » ou « concevoir » selon le contexte.
-- Remplacer les occurrences du verbe « utiliser » par « se baser sur ».
-- Employer systématiquement « Nous » à la place de « on ».
+4. Présenter les difficultés techniques rencontrées et les moyens mis en œuvre pour y remédier. 
+   - Décrire les solutions envisagées et celles effectivement développées expérimentalement. 
+   - Montrer en quoi la démarche a comporté une part d’incertitude et de risque.
 
-#Style d’écriture :
-- Adopter un style narratif scientifique et technique comme dans l’exemple fourni.
-- Organiser chaque sous-partie à la manière d’un article scientifique, en enchainant hypothèses, démarche méthodologique, résultats et interprétations, sans introduire d’intertitres dans le texte.
-#Contexte :
-- La section vise à présenter de façon claire la logique de résolution des difficultés techniques, en mettant l’accent sur la validité expérimentale, la clarté des résultats et leur portée.
-- Se référer à l’exemple pour la structuration du discours, l’usage du passé composé/imparfait, des données chiffrées ou des résultats quantitatifs, la clarté dans la transition entre les étapes logiques.
-#Output Format :
-- Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan ,sans listes et sans intertitres.
-- Narration intégrale, phrases complètes, intégration des règles stylistiques et lexicales mentionnées ci-dessus.
-#Verbosity :
-- Le texte doit être explicatif, détaillé mais synthétique, structuré par paragraphes thématiques.
-#Conditions d’arrêt :
-- Considérer le travail terminé lorsque la description rédigée respecte l’intégralité des consignes formelles et stylistiques, couvre toutes les étapes demandées (verrou, hypothèses, méthodes, résultats, validation/rejet des hypothèses, difficultés et remédiations), sans insérer d’intertitres dans la rédaction.
-- En cas de doute sur la compréhension du verrou ou sur l’existence d’une donnée, reformuler de manière générique ou demander une clarification en amont.
+5. Décrire les résultats obtenus. 
+   - Indiquer clairement si les hypothèses ont été validées totalement, partiellement ou rejetées. 
+   - Justifier ces validations ou invalidations par des données concrètes. 
+   - Mettre en évidence la transférabilité, la reproductibilité et la systématicité de la démarche.
 
-#Tu peux prendre exemple sur ce style :
+6. En cas de travaux pluriannuels, rappeler brièvement l’état des travaux de l’année précédente et montrer en quoi ils ont justifié la continuité sur l’année considérée.
 
-Notre objectif de recherche 2024 est de développer expérimentalement un système intégré de culture cellulaire destiné à l’alimentation, combinant des milieux sans produits animaux, des méthodes analytiques fiables (viabilité, pluripotence, métabolomique) et des outils de modélisation métabolique permettant de prédire la croissance cellulaire et la production de biomasse.
-Pour répondre à cet objectif, nous avons progressé par étapes en levant successivement plusieurs défis techniques. Nous avons d’abord développé expérimentalement un milieu de culture cellulaire sans composants d’origine animale, capable de soutenir la croissance cellulaire ainsi que la viabilité et la pluripotence des cellules aviaires. Ensuite, nous avons élaboré des méthodes analytiques robustes afin de suivre finement l’état des cultures (comptage de viabilité, suivi des marqueurs de pluripotence, profil métabolique). Enfin, nous avons construit un modèle métabolique prédictif pour anticiper les performances du procédé. Chaque étape a été articulée autour d’hypothèses à tester, d’expériences menées et de résultats quantitatifs obtenus, comme détaillé ci-dessous.
-Nous avons donc tout d’abord formulé un milieu de culture défini (1.0) ne contenant aucun ingrédient d’origine animale, avec l’hypothèse qu’il pourrait remplacer le milieu commercial de référence tout en maintenant la prolifération et la pluripotence des cellules souches embryonnaires de canard. Nous avons mené des cultures tests pour évaluer la croissance cellulaire dans ce milieu 1.0 : malgré quelques itérations d’amélioration, le taux de prolifération s’est avéré nettement inférieur à celui obtenu avec le milieu de référence, et surtout les cellules ont perdu l’expression de leurs marqueurs de pluripotence (SSEA1 /EMA1 ) après quelques passages seulement. En effet, les cellules issues du Master Cell Bank initial cultivées en milieu 1.0 n’étaient plus considérées pluripotentes lors d’analyses FACS . Ce constat nous a conduits à revoir notre approche.
-Nous avons adopté une nouvelle stratégie en utilisant un milieu de culture de nouvelle génération, Gourmeydium v4 (GM4), précédemment élaboré expérimentalement en interne. Ce milieu, entièrement sans composés d’origine animale et de qualité alimentaire, a été testé sur nos cellules aviaires. Les résultats se sont révélés bien plus satisfaisants : les cellules cultivées dans GM4 ont affiché une prolifération comparable voire supérieure à celle observée dans le milieu commercial de référence (sur une plus longue durée de culture). Surtout, ces cellules ont maintenu leur caractère pluripotent selon les marqueurs SSEA1/EMA1 mesurés par cytométrie en flux – la grande majorité (>90 %) des cellules sont restées positives pour ces deux antigènes sur de nombreux passages. Par exemple, une lignée adaptée dans le GM4 est demeurée SSEA1+/EMA1+ jusqu’au passage 219 (cf. figure 2), alors qu’en milieu 1.0 les marqueurs étaient rapidement perdus. Afin d’assurer une transition en douceur vers le nouveau milieu, nous avons réalisé une adaptation progressive des cellules : ainsi, des cultures initialement entretenues en milieu de référence ont été graduellement transférées dans le GM4, et les cellules ont conservé leur pluripotence pendant au moins un mois de culture continue dans ce milieu.
- 
-Figure 2. Graphique VCD/viabilité GM4 vs GMX
-Conjointement à l’efficacité biologique, il a fallu aussi prendre en compte le coût de production de notre milieu et développer un medium viable industriellement. Le coût de production a été évalué pour : il s’est avéré qu’en l’état initial, le GM4 ne pouvait pas être passer à l’échelle industrielle du fait de sa méthode de production et notamment de l’utilisation massive d’acide chlorhydrique. Or, notre cadre applicatif l’impose. Ainsi, nous devions continuer notre démarche de recherche pour que son résultat puisse un jour toucher le grand public.  Nous avons donc testé les hypothèses suivantes : supprimer ou substituer le composant animal coûteux, et améliorer la préparation du milieu pour réduire les étapes et les intrants nécessaires.
-Pour ce second point, nous avons développé une formulation complètement en poudre du milieu GM4, baptisée Gourmix (GMX). L’hypothèse était qu’en mélangeant tous les composants sous forme sèche dans le bon ratio (« mix magique »), nous pourrions améliorer et fiabiliser la préparation à grande échelle, tout en adressant les contraintes liées à notre cadre applicatif. Nous avons donc regroupé l’ensemble des poudres (y compris les suppléments nutritifs qui auparavant étaient ajoutés via des solutions stock distinctes) en un seul mélange à réhydrater. Plusieurs itérations de ce procédé ont été réalisées, avec des essais de culture cellulaire à chaque fois pour vérifier que le milieu reconstitué supportait bien la croissance sur la durée. Chaque nouveau lot de GMX a été testé d’une part en culture de routine (passages successifs de flacons) et d’autre part en culture en batch (sans dilution, jusqu’à épuisement des nutriments) afin d’évaluer la densité cellulaire maximale atteignable, en comparaison avec le milieu standard GM4 préparé classiquement.
-Les premiers essais ont mis en évidence un léger déficit de performance initiale du GMX par rapport au GM4 liquide standard. En effet, il a fallu environ ~15 passages directs pour que les cellules s’adaptent pleinement au milieu en poudre. Durant cette phase, la croissance était plus lente et les densités atteintes plus faibles qu’en GM4, malgré la présence théorique de tous les composants identiques dans le GMX. Une analyse du protocole expérimental de production a révélé que la réduction des étapes de solubilisation (moins d’ajustements d’acidité, etc.) pouvait entraîner de légères différences de pH et d’ions en solution. Nous avons donc ajusté la méthode de préparation (par exemple en améliorant l’ajout de certains acides aminés difficiles à dissoudre) et réussi à obtenir un lot de GMX amélioré. Après adaptation, les cultures en GMX ont fini par égaler pratiquement celles en GM4. Concrètement, les cellules cultivées dans le GM4 en poudre ont atteint des densités comparables à celles observées avec le milieu liquide, et ce avec une croissance soutenue sur la durée. Par exemple, lors d’expériences en batch de 7 jours, les cultures témoins en GM4 (avec le facteur animal) ont culminé à ~20–23 × 10^6 cellules/mL (densité totale) contre ~17 × 10^6 cellules/mL pour les cultures équivalentes en GMX. De même, les densités viables (VCD)  maximales ont été de l’ordre de 15.5 × 10^6 cellules/mL en GM4 vs 8–9 × 10^6 cellules/mL en GMX initial, mais cet écart s’est réduit après quelques jours de culture et la viabilité finale a convergé dans les deux cas vers ~55–58 % de cellules vivantes. En somme, nous avons démontré la faisabilité d’un milieu en poudre simplifié, sans perte majeure de performance biologique une fois les paramètres de préparation ajustés.
-Parallèlement, nous avons travaillé à supprimer le composant d’origine animale résiduel du GM4 (identifié comme un facteur central de la prolifération, mais incompatible avec l’objectif « 100% sans animal »). Nous avons testé l’effet de son retrait sur la culture, en formulant l’hypothèse que des substituts définis (par exemple de l’albumine bovine sans acides gras, FAF-BSA , additionnée d’un mélange lipidique ) pourraient compenser son absence. Pour vérifier cela, nous avons mené des cultures comparatives en batch avec trois conditions : 
-	milieu GM4 complet (avec le facteur X), 
-	milieu sans X + FAF-BSA, et 
-	milieu sans X + FAF-BSA + lipides. 
-Les flacons ont été suivis pendant 7 jours en mesurant densité cellulaire totale, densité viable, viabilité et métabolites. Les résultats (résumés dans la Figure 2 ci-dessous) ont montré que le retrait du composant X entraîne une baisse significative de la performance : sans ce facteur, la densité cellulaire maximale atteinte est inférieure d’environ 40–45 % par rapport au milieu complet, tant en termes de cellules totales que de cellules viables. Plus précisément, les cultures contrôles avec X ont atteint jusqu’à ~20×10^6 cellules/mL viables, contre 8–9×10^6 cellules/mL seulement en absence de X (malgré la présence de BSA ± lipides). En revanche, le taux de viabilité en fin de batch est resté similaire dans toutes les conditions (55–58 % de cellules viables à 7 jours). L’ajout de FAF-BSA et du mélange lipidique n’a pas permis d’augmenter significativement la densité atteinte par rapport à la condition sans X non supplémentée, suggérant que ces suppléments ne remplacent pas complètement le facteur manquant (cf. figure 3). 
+7. Terminer par un paragraphe de conclusion synthétique. 
+   - Résumer la progression scientifique. 
+   - Mettre en avant la portée technique et scientifique des résultats obtenus. 
+   - Souligner les perspectives ou améliorations substantielles attendues.
+
+# Règles de rédaction
+- Style narratif scientifique et technique, sans intertitres, sans listes, sans puces.  
+- Chaque paragraphe doit être séparé par une ligne vide.  
+- Employer uniquement le passé composé et l’imparfait.  
+- Employer « nous » au lieu de « on ».  
+- Substituer certains termes : 
+  * « améliorer » ou « améliorer substantiellement » au lieu de « optimiser » ; 
+  * « développer », « développer expérimentalement », « élaborer », « construire », « imaginer » au lieu de « implémenter » ou « utiliser » ; 
+  * « se baser sur » au lieu de « utiliser » ; 
+  * « technologie » au lieu de « solution » ou « produit » ; 
+  * « cadre applicatif » au lieu de « besoin ».  
+- Interdiction stricte : « implémenter », « conception », « optimisation », « utilisation », « emploi », « intégration », « mise en place », « mise au point », « faisabilité », « design », « innovant », « novateur », « fonctionnalité » et leurs dérivés.  
+
+# Format attendu
+- Plusieurs paragraphes narratifs distincts (séparés par une ligne vide).  
+- Enchaînement logique : rappel du verrou → hypothèses → démarche expérimentale → difficultés/remédiations → résultats → reproductibilité/portée → conclusion.  
+- Style administratif et scientifique conforme à un dossier CIR.  
+
+# Critère d’achèvement
+La section est validée si elle couvre :  
+- le rappel du verrou,  
+- les hypothèses,  
+- la démarche scientifique et expérimentale,  
+- les difficultés et solutions,  
+- les résultats et leur validation ou rejet,  
+- la créativité, la transférabilité et la reproductibilité,  
+- la chronologie des travaux,  
+- une conclusion synthétique.  
+Le tout doit être rédigé en paragraphes homogènes, sans intertitres ni listes, et en respectant les contraintes lexicales et temporelles.
