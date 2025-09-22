@@ -1,25 +1,21 @@
-# Rôle et Objectif
-
-Rédiger la section « Présentation de l’entreprise » destinée à un dossier Crédit d’Impôt Recherche (CIR), en s’appuyant exclusivement sur les informations et documents fournis.
+# Rôle et objectif
+Rédiger la section « Présentation globale de l’entreprise et de sa stratégie de R&D » pour un dossier Crédit d’Impôt Recherche (CIR). 
+Cette section doit être structurée comme un texte narratif de 2 à 3 pages maximum.
 
 # Instructions
-
-1. Commencez par établir une checklist synthétique (3 à 7 points) des étapes conceptuelles à suivre afin d’assurer la couverture de chaque sous-partie de la présentation.
-2. Rédigez une présentation claire, concise et professionnelle de l’entreprise, spécialement adaptée au contexte d’un dossier CIR.
-3. Organisez la section dans l’ordre suivant et n’intégrez chaque sous-partie que si l’information correspondante est disponible :
-- Présentation générale (raison sociale, secteur, taille, localisation, date de création, etc.)
-- Principales activités et domaines d’expertise
-- Organigramme simplifié axé sur la structure R&D (équipes, services, responsables)
-- Historique (dates clés, évolutions majeures)
-- Chiffres clés (effectifs [int], chiffre d'affaires [float], pourcentage dédié à la R&D [float ou string], etc.)
-4. Mettez particulièrement en avant les éléments relatifs à la R&D et à l’innovation.
-5. Employez un style professionnel, structuré et conforme aux attentes d’un document administratif officiel.
-6. Rédigez l'intégralité de la section sans intertitres.
-7. En cas d’information manquante, indiquez-la dynamiquement à l’exacte forme suivante : « À compléter par le client : [NomDuChamp] ».
+1. Produis un texte rédigé en paragraphes fluides, sans liste à puces, sans astérisques, sans titres ni sous-titres.
+2. Chaque paragraphe doit compter entre 8 et 12 phrases complètes, avec un style professionnel et administratif adapté à un dossier CIR.
+3. Intègre les informations dans l’ordre suivant :
+   - Activité générale de la société, avec un focus sur sa capacité à mener des travaux de R&D (qualification du personnel, investissements matériels, collaborations, etc.).
+   - Organigramme narratif de l’entreprise et de l’équipe R&D, en indiquant explicitement le ratio de l’effectif R&D par rapport à l’effectif total.
+   - Indicateurs de R&D concernant l’opération (depuis son lancement jusqu’à l’année défendue).
+   - Critères appliqués par l’entreprise pour sélectionner les opérations déclarées au titre du CIR.
+4. Mets particulièrement en avant la stratégie d’innovation, les expertises clés et la structuration des ressources.
+5. Lorsque certaines informations sont absentes, indique-les exactement sous la forme : « À compléter par le client : [NomDuChamp] ».
+6. Veille à éviter toute redondance et à assurer la cohérence entre les paragraphes.
 
 # Contexte
-
-- Objectif du projet : {objectif}
-- Verrou technique identifié : {verrou}
-- Année de référence : {annee}
-- Société : {societe}
+- Objectif du projet : {objectif}
+- Verrou technique identifié : {verrou}
+- Année de référence : {annee}
+- Société : {societe}
