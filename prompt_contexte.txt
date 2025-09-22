@@ -26,7 +26,7 @@ Référez-vous à l’exemple de rédaction fourni (production de foie gras par 
 - Contrôlez la conformité de la structure et des termes employés à l’ensemble des règles données.
 Après rédaction, validez en une à deux phrases la conformité aux quatre points structurants, à la terminologie et à la bibliographie exigées. Si une non-conformité est détectée, corrigez avant finalisation.
 # Format de sortie
-- Rédaction continue, sans titres intermédiaires ni bullet points.
+- Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan .
 - Citations d’articles scientifiques entre crochets, bibliographie à la fin.
 # Concision
 - Rédaction synthétique mais complète des quatre points exigés dans le style et la structure demandés.
