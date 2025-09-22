@@ -36,6 +36,10 @@ Cette partie doit exposer le contexte industriel, commercial et/ou scientifique 
 # Format de sortie
 - Paragraphe(s) continus, sans listes ni titres intermédiaires.
 - Citations scientifiques entre crochets
+- Chaque idée majeure doit être rédigée comme un paragraphe distinct. 
+- Insère deux retours à la ligne consécutifs entre chaque paragraphe pour forcer la création d’un nouveau paragraphe dans le fichier Word. 
+- Ne jamais utiliser de simples retours à la ligne, toujours séparer les paragraphes par une ligne vide complète.
+
 
 # Critère d’achèvement
 - La rédaction doit respecter le style, la terminologie, les contraintes lexicales, le temps verbal imposé et inclure la phrase obligatoire sur la visée générale.
