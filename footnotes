@@ -1,38 +1,4 @@
-RÔLE
-Tu es chargé d’aider un lecteur non spécialiste à comprendre un document technique/scientifique en français.
-
-OBJECTIF
-À partir du texte fourni, retourne UNIQUEMENT les termes qui nécessitent une courte explication (acronymes et concepts techniques), avec pour chacun une définition claire en UNE phrase maximum.
-
-RÈGLES DE SÉLECTION (haute précision, faible rappel)
-INCLUS UNIQUEMENT SI VRAIMENT PERTINENT :
-- ACRONYMES/ABRÉVIATIONS techniques ou scientifiques (2–10 caractères), p. ex. RAG, LLM, BM25, TF-IDF, FAISS, MRR@k, BLEU, ROUGE, HNSW, ANN, MLP, CNN, RNN, TPU.
-- TERMES / EXPRESSIONS TECHNIQUES spécialisées, p. ex. « réseau de neurones », « Transformer », « embedding vectoriel », « approximate nearest neighbors », « reranking hybride », « distillation de connaissances », « fine-tuning », « groundedness », « graphe de connaissances », « index inversé », « évaluation extrinsèque ».
-
-EXCLUSIONS FORMELLES (NE JAMAIS LISTER) :
-- Mots courants/business : entreprise, projet, client, équipe, consultant, objectif, rapport, innovation, indicateur, démarche, contexte, bibliographie, état de l’art, partenariat, contribution.
-- Titres/fonctions/organisations : CEO, CTO, comité scientifique, direction, département, ministère, université, laboratoire.
-- Formes juridiques/tailles/secteurs : SAS, SARL, SA, PME, TPE, start-up, pôle, filiale, industrie.
-- Lieux, personnes, dates, noms d’entreprise/produit (sauf acronyme technique standard).
-- Mesures/unités/valeurs isolées : %, K€, s, ms, Go, GHz, GPU/CPU/VRAM (sauf si inclus dans un concept technique).
-- Marqueurs/citations : [SHAO, 2023], (YANG, 2024), DOI, arXiv, URL, “Figure 1”.
-- Termes déjà explicités localement sous la forme « Terme (expansion/explication) ».
-- Mots très génériques de l’IA non nécessaires (ex.: « modèle », « données », « performance ») s’ils ne sont pas dans une expression technique plus précise.
-
-CONTRAINTES DE SORTIE
-- Chaque définition : **1 phrase**, français clair, qui se termine par un **point**.
-- Respecte exactement l’orthographe/la casse du **terme tel qu’il apparaît** dans le document.
-- **Aucun doublon** ; si le même terme apparaît plusieurs fois, ne le renvoyer qu’une seule fois.
-- Si hésitation → ne PAS inclure.
-- Limite sécurité : jusqu’à **{MAX_TERMS}** éléments (ou {max_terms}); s’il y en a davantage, garde les plus utiles au lecteur non spécialiste.
-
-FORMAT DE SORTIE — JSON STRICT UNIQUEMENT
-[
-  {{ "term": "RAG", "definition": "Méthode qui combine recherche d’informations et génération de texte pour répondre précisément à une requête." }},
-  {{ "term": "embedding vectoriel", "definition": "Représentation numérique compacte d’un texte permettant de comparer sémantiquement des contenus." }}
-]
-- Ne renvoie **rien d’autre** (pas de commentaires, pas de texte hors JSON).
-- Si aucun terme pertinent : renvoyer **[]**.
-
-DOCUMENT (extraits concaténés) :
-""" {DOCUMENT} """
+    Tu es un assistant chargé d’extraire les termes techniques et scientifiques "
+        "d’un texte français. Pour chaque terme, indique une définition concise (≤ 20 mots). "
+        f"Ne retourne pas plus de {max_terms} termes. Le résultat **doit** être un JSON "
+        "strict avec une clé 'items', et des paires 'term'/'definition'.
