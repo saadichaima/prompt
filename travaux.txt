@@ -1,63 +1,50 @@
 # Rôle et objectif
-Rédiger la section « Description de la démarche suivie et des travaux réalisés » d’un dossier Crédit d’Impôt Recherche (CIR). 
-Cette section doit exposer la résolution du verrou {verrou}, détailler le raisonnement scientifique et la démarche expérimentale adoptée, et décrire les travaux réalisés de manière chronologique et critique.
+Rédiger la section « Description des résultats de l’opération déclarée et de la contribution scientifique et/ou technique à l’acquisition de connaissances nouvelles » d’un dossier Crédit d’Impôt Recherche (CIR). 
+Cette section doit analyser les résultats de l’opération, montrer leur caractère inédit, et expliciter la contribution scientifique et/ou technique au regard de l’état de l’art.
 
 # Instructions de rédaction
-1. Ouvrir par un paragraphe rappelant explicitement le verrou {verrou} et l’objectif scientifique poursuivi. 
-   - Situer brièvement la problématique. 
-   - Introduire l’idée que les travaux s’organisent en une démarche progressive.
+1. Ouvrir par un paragraphe qui rappelle l’objectif initial lié au verrou {verrou}, puis exposer les principaux résultats obtenus en lien direct avec cet objectif.  
+   - Employer le passé composé pour décrire les résultats.  
+   - Présenter les conclusions associées, qu’elles soient positives ou négatives.  
 
-2. Décrire la formulation des hypothèses de recherche et leur rôle dans la structuration des travaux. 
-   - Expliquer clairement les concepts originaux ou créatifs introduits. 
-   - Mettre en évidence l’élément de créativité scientifique (hypothèses ou concepts non évidents).
+2. Décrire en plusieurs paragraphes la nouveauté des résultats :  
+   - Expliquer en quoi ils constituent une acquisition de connaissances scientifiques ou techniques nouvelles.  
+   - Mettre en évidence le caractère inédit par rapport à l’état de l’art existant.  
+   - Distinguer entre savoir théorique (concepts, modèles, méthodes) et savoir-faire technique (procédures, protocoles, prototypes).  
 
-3. Détailler la démarche expérimentale et théorique suivie. 
-   - Exposer les phases successives de l’opération de R&D (chronologie). 
-   - Décrire les outils numériques, prototypes, expériences ou tests réalisés. 
-   - Employer des chiffres précis, formules, métriques ou résultats chiffrés lorsqu’ils existent.
+3. Rédiger un paragraphe dédié à la transférabilité :  
+   - Montrer en quoi les résultats peuvent être transposés à d’autres cas, applications, environnements ou secteurs.  
+   - Préciser s’ils sont reproductibles et dans quelles conditions.  
 
-4. Présenter les difficultés techniques rencontrées et les moyens mis en œuvre pour y remédier. 
-   - Décrire les solutions envisagées et celles effectivement développées expérimentalement. 
-   - Montrer en quoi la démarche a comporté une part d’incertitude et de risque.
-
-5. Décrire les résultats obtenus. 
-   - Indiquer clairement si les hypothèses ont été validées totalement, partiellement ou rejetées. 
-   - Justifier ces validations ou invalidations par des données concrètes. 
-   - Mettre en évidence la transférabilité, la reproductibilité et la systématicité de la démarche.
-
-6. En cas de travaux pluriannuels, rappeler brièvement l’état des travaux de l’année précédente et montrer en quoi ils ont justifié la continuité sur l’année considérée.
-
-7. Terminer par un paragraphe de conclusion synthétique. 
-   - Résumer la progression scientifique. 
-   - Mettre en avant la portée technique et scientifique des résultats obtenus. 
-   - Souligner les perspectives ou améliorations substantielles attendues.
+4. Terminer par un paragraphe de conclusion :  
+   - Résumer les acquis de l’opération.  
+   - Souligner la valeur scientifique et technique générée.  
+   - Mettre en avant la portée des nouvelles connaissances créées pour la R&D de l’entreprise et pour l’état de l’art du domaine.  
 
 # Règles de rédaction
 - Style narratif scientifique et technique, sans intertitres, sans listes, sans puces.  
 - Chaque paragraphe doit être séparé par une ligne vide.  
-- Employer uniquement le passé composé et l’imparfait.  
+- Employer principalement le passé composé, l’imparfait pour la concordance des temps.  
 - Employer « nous » au lieu de « on ».  
-- Substituer certains termes : 
-  * « améliorer » ou « améliorer substantiellement » au lieu de « optimiser » ; 
-  * « développer », « développer expérimentalement », « élaborer », « construire », « imaginer » au lieu de « implémenter » ou « utiliser » ; 
-  * « se baser sur » au lieu de « utiliser » ; 
-  * « technologie » au lieu de « solution » ou « produit » ; 
+- Substituer certains termes :  
+  * « améliorer » ou « améliorer substantiellement » au lieu de « optimiser » ;  
+  * « développer », « développer expérimentalement », « élaborer », « construire », « imaginer » au lieu de « implémenter » ou « utiliser » ;  
+  * « se baser sur » au lieu de « utiliser » ;  
+  * « technologie » au lieu de « solution » ou « produit » ;  
   * « cadre applicatif » au lieu de « besoin ».  
 - Interdiction stricte : « implémenter », « conception », « optimisation », « utilisation », « emploi », « intégration », « mise en place », « mise au point », « faisabilité », « design », « innovant », « novateur », « fonctionnalité » et leurs dérivés.  
 
 # Format attendu
 - Plusieurs paragraphes narratifs distincts (séparés par une ligne vide).  
-- Enchaînement logique : rappel du verrou → hypothèses → démarche expérimentale → difficultés/remédiations → résultats → reproductibilité/portée → conclusion.  
+- Enchaînement logique : objectif rappelé → résultats → nouveauté/connaissances → savoir/savoir-faire → transférabilité → conclusion.  
 - Style administratif et scientifique conforme à un dossier CIR.  
 
 # Critère d’achèvement
 La section est validée si elle couvre :  
-- le rappel du verrou,  
-- les hypothèses,  
-- la démarche scientifique et expérimentale,  
-- les difficultés et solutions,  
-- les résultats et leur validation ou rejet,  
-- la créativité, la transférabilité et la reproductibilité,  
-- la chronologie des travaux,  
-- une conclusion synthétique.  
+- les résultats associés à l’objectif,  
+- les conclusions (positives ou négatives),  
+- la nouveauté scientifique et technique,  
+- la description des connaissances créées (savoir et savoir-faire),  
+- la transférabilité et la reproductibilité,  
+- une conclusion synthétique claire.  
 Le tout doit être rédigé en paragraphes homogènes, sans intertitres ni listes, et en respectant les contraintes lexicales et temporelles.
