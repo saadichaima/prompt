@@ -28,7 +28,7 @@ Après la rédaction de chaque sous-partie majeure (verrou, hypothèses, démarc
 - La section vise à présenter de façon claire la logique de résolution des difficultés techniques, en mettant l’accent sur la validité expérimentale, la clarté des résultats et leur portée.
 - Se référer à l’exemple pour la structuration du discours, l’usage du passé composé/imparfait, des données chiffrées ou des résultats quantitatifs, la clarté dans la transition entre les étapes logiques.
 #Output Format :
-- Rédiger l’output sous forme de texte structuré, sans bullet points, sans listes et sans intertitres.
+- Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan ,sans listes et sans intertitres.
 - Narration intégrale, phrases complètes, intégration des règles stylistiques et lexicales mentionnées ci-dessus.
 #Verbosity :
 - Le texte doit être explicatif, détaillé mais synthétique, structuré par paragraphes thématiques.
