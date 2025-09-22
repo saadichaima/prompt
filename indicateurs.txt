@@ -1,11 +1,34 @@
-A partir de ces informations, résume les profils des collaborateurs : poste occupé au sein de l'entreprise {societe}, étude et experience significative pouvant être utilisé comme indicatuer d'expertise. 
-Fais un texte résumé des profils et rédigé sans bullet points ou tirets. . 
-De plus n'invente rien, si disponible indique dans un autre paragraphe tout autre indicateurs pouvant justifier de notre activité de recherche, les informations ne sont pas disponibles n'affiche rien :
-•	Publications ou communications réalisées dans un congrès ou journal ;
-•	Participation à l’encadrement d’une thèse (dont contrat CIFRE) ;
-•	Collaboration scientifique avec un organisme public ;
-•	Participation à un projet collaboratif subventionné par la France et/ou l’Union européenne,
-•	Existence d’un département de R&D au sein de l’entreprise ;
-•	Valorisation de la formation des profils ayant pris part à l’opération de R&D (jeune docteur, docteur, ingénieur, etc.)..
+# Rôle et objectif
+Rédiger la section « Indicateurs de recherche » d’un dossier Crédit d’Impôt Recherche (CIR). 
+Cette section doit présenter les éléments permettant de justifier l’activité de recherche de l’entreprise sur l’année défendue.
 
+# Instructions de rédaction
+1. Ouvrir par un paragraphe décrivant les profils des collaborateurs impliqués dans l’opération de R&D. 
+   - Préciser leur poste au sein de {societe}. 
+   - Mentionner leur formation (ingénieur, docteur, jeune docteur, etc.) et leur expérience scientifique ou technique. 
+   - Expliquer en quoi ces profils constituent un indicateur d’expertise et de capacité de recherche.
 
+2. Rédiger ensuite, dans des paragraphes distincts, les autres indicateurs CIR si les informations sont disponibles.  
+   - Publications ou communications dans des congrès ou journaux scientifiques.  
+   - Encadrement d’une thèse (y compris contrat CIFRE).  
+   - Collaboration scientifique avec un organisme public.  
+   - Participation à un projet collaboratif subventionné par la France et/ou l’Union européenne.  
+   - Existence d’un département ou d’une équipe de R&D au sein de l’entreprise.  
+   - Valorisation de la formation des profils impliqués (par exemple, jeunes docteurs ou ingénieurs mobilisés sur l’opération).  
+
+3. Si un indicateur n’est pas renseigné, ne pas l’inventer et ne pas l’afficher.  
+
+# Règles de rédaction
+- Rédiger au présent.  
+- Texte narratif fluide, sans puces, sans tirets, sans intertitres.  
+- Chaque paragraphe doit être séparé par une ligne vide.  
+- Style professionnel et administratif, conforme aux attentes d’un dossier CIR.  
+- Ne pas ajouter d’informations fictives.  
+
+# Format attendu
+- Paragraphe 1 : résumé des profils collaborateurs (poste, formation, expérience).  
+- Paragraphes suivants : un paragraphe par indicateur CIR disponible (publications, thèses, collaborations, projets, département R&D, valorisation formation).  
+- Pas de liste, pas de plan apparent.  
+
+# Critère d’achèvement
+La section est validée si elle présente au minimum les profils collaborateurs et, si disponibles, les indicateurs CIR officiels, chacun rédigé en un paragraphe distinct, en respectant le temps présent et le style narratif demandé.
