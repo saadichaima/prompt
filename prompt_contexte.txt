@@ -1,44 +1,41 @@
 # Objectif et Mission
-Rédiger une contextualisation précise d'une opération de R&D, suivant une structure claire et un style rédactionnel conforme à des règles lexicales et syntaxiques précises.
-Avant de commencer, énoncez un court plan conceptuel (3-5 étapes) résumant les principales tâches à réaliser pour garantir que chaque exigence structurelle et linguistique est prise en compte.
-# Instructions Générales
-- Présenter la problématique ayant justifié l'initiation de l'opération de recherche, citant au moins une source bibliographique pertinente selon le format [NOM, ANNEE], le nom de famille en majuscules, avec la bibliographie listée à la fin. Les sources doivent être vérifiables et antérieures à {annee}.
-- Détaillez l’opération de R&D en soulignant la nécessité de la poursuivre en cas d’antériorité du projet.
-- Replacer l’activité de recherche dans le cadre de l’entreprise.
-- Présenter la visée finale et générale de l’opération, sans entrer dans les objectifs détaillés.
-# Contraintes Rédactionnelles
-- N’utilisez pas de titres intermédiaires ni de listes à puce.
-- Remplacez certains termes interdits par les alternatives imposées :
-- Préférez « améliorer » ou « améliorer substantiellement » à « optimiser ».
-- Remplacez « appliquer » et « utiliser » par « développer expérimentalement », « élaborer », « construire », « développer sur (une technologie) », ou « en travaillant à partir de ».
-- Pour les résultats, préférez « éprouver ».
-- Après arbitrage, substituez « utiliser » par « choisir ».
-- Employez « nous » au lieu de « on ».
-- Employez « cadre applicatif » au lieu de « besoin ».
-- Employez « technologie » au lieu de « solution » ou « produit ».
-- Employez « en matière de » au lieu de « en termes de ».
-- N’utilisez pas « implémenter », « concevoir », « implémentation », « utilisation », « emploi », « intégration », « configurer », « paramètre », « fabrique », « mettre en conformité », « faisabilité », « design » ni leurs dérivés.
-- Évitez « innovant », « novateur », « fonctionnalité », « mettre en place », « mettre au point », « conception » et tous les mots dérivés listés ci-dessus.
-# Exemple de style à suivre
-Référez-vous à l’exemple de rédaction fourni (production de foie gras par culture cellulaire), qui introduit la problématique industrielle et scientifique, expose la démarche de R&D et sa place en entreprise, détaille l’antériorité et l’objectif général, tout en respectant le style et la terminologie imposés.
-# Vérification & Qualité
-- Vérifiez l’exactitude des références scientifiques (noms d’auteurs, titres, années).
-- Contrôlez la conformité de la structure et des termes employés à l’ensemble des règles données.
-Après rédaction, validez en une à deux phrases la conformité aux quatre points structurants, à la terminologie et à la bibliographie exigées. Si une non-conformité est détectée, corrigez avant finalisation.
-# Format de sortie
-- Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan .
-- Citations d’articles scientifiques entre crochets, bibliographie à la fin.
-# Concision
-- Rédaction synthétique mais complète des quatre points exigés dans le style et la structure demandés.
-# Critère d’achèvement
-- La rédaction doit couvrir intégralement les quatre points structurants, respecter l’ensemble des contraintes lexicales et bibliographiques, et inclure une bibliographie à la fin si des références sont citées.
+Rédiger la section « Description du contexte général de l’opération déclarée » pour un dossier Crédit d’Impôt Recherche (CIR). 
+Cette partie doit exposer le contexte industriel, commercial et/ou scientifique d’où émerge la difficulté, montrer la cohérence avec l’opération de R&D, puis introduire en une phrase la visée générale de l’opération.
 
-#Exemple
-Tu peux prendre exemple sur le style de cette dédaction :
-La production de foie gras par culture cellulaire s’inscrit dans un contexte industriel et sociétal en pleine mutation, marqué par une demande croissante en alternatives alimentaires durables, éthiques et sans origine animale. En particulier, les procédés de culture in vitro destinés à l'alimentation humaine doivent répondre à des exigences strictes en termes de sécurité sanitaire, de conformité réglementaire (absence de composants animaux, traçabilité, etc.), de reproductibilité biologique et de viabilité économique à l’échelle industrielle. Ces contraintes sont aujourd’hui bien documentées dans la littérature scientifique, qui souligne notamment la complexité de formuler des milieux de culture à la fois performants, animal-free, et compatibles avec les contraintes de coût de production [STOUT, 2021] et [POLEZHAEVA, 2023].
-Dans ce cadre, notre opération de R&D vise à développer un milieu de culture cellulaire totalement exempt de produits animaux, à partir d’ingrédients food grade , qui permette à des cellules souches embryonnaires de canard de croître efficacement tout en conservant leur pluripotence. Le projet s’inscrit dans la continuité d’un premier travail initié sur le développement du Gourmeydium v4 (GM4), un milieu formulé en interne, dont la performance a été validée à petite échelle mais dont les modalités de préparation (multiplicité des préparations stock, complexité de solubilisation, coût des intrants) limitaient l’industrialisation. La poursuite des travaux est donc justifiée par la nécessité de convertir cette formulation liquide en une version poudre standardisée (GMX), plus adaptée à une production à grande échelle.
-L’opération s’intègre pleinement dans l’activité de recherche de l’entreprise, qui développe des procédés de production de viande cellulaire à haute valeur ajoutée. Elle mobilise des expertises en bioprocédés, en développement de milieux de culture, en analyse métabolique et en contrôle qualité cellulaire. L’activité s’inscrit également dans notre stratégie industrielle visant à structurer un procédé complet de production de foie gras cultivé, scalable, traçable et sans origine animale.
-La visée générale de l’opération de R&D est de développer expérimentalement un système intégré de culture cellulaire destiné à l’alimentation, combinant des milieux sans produits animaux, des méthodes analytiques fiables (viabilité, pluripotence, métabolomique) et des outils de modélisation métabolique permettant de prédire la croissance cellulaire et la production de biomasse.
+# Instructions Générales
+- Présenter le contexte industriel, commercial et/ou scientifique ayant conduit à l’opération de R&D, en citant au moins une source bibliographique pertinente selon le format [NOM, ANNEE], avec bibliographie listée à la fin. Les sources doivent être vérifiables et antérieures à {annee}.
+- Expliquer la problématique scientifique et technique, en soulignant pourquoi elle nécessite une activité de R&D.
+- Replacer cette opération dans le cadre de l’entreprise, en montrant sa cohérence avec la stratégie et les expertises de l’organisation.
+- Rédiger obligatoirement une phrase de transition sous la forme :  
+  « Pour répondre à ces problématiques, nous avons initié une opération de R&D en {annee} afin de {présentation de la visée générale}. »
+- Si l’opération comporte plusieurs projets, la présenter comme une opération unique avec une visée générale et une problématique communes.
+
+# Contraintes Rédactionnelles
+- Style narratif, en paragraphes continus, sans titres intermédiaires, sans plan, sans listes à puces.
+- Employer exclusivement le temps présent.
+- Chaque paragraphe doit comporter entre 8 et 12 phrases complètes.
+- Respecter les substitutions lexicales suivantes :
+  * « améliorer » ou « améliorer substantiellement » au lieu de « optimiser »,
+  * « développer expérimentalement », « élaborer », « construire », « développer sur » au lieu de « appliquer » ou « utiliser »,
+  * « éprouver » pour les résultats,
+  * « choisir » au lieu de « utiliser »,
+  * « cadre applicatif » au lieu de « besoin »,
+  * « technologie » au lieu de « solution » ou « produit »,
+  * « en matière de » au lieu de « en termes de »,
+  * Employer « nous » au lieu de « on ».
+- Interdictions absolues : « implémenter », « concevoir », « implémentation », « utilisation », « emploi », « intégration », « configurer », « paramètre », « faisabilité », « design », « innovant », « novateur », « fonctionnalité », « mettre en place », « mettre au point », « conception » et tous leurs dérivés.
+
+# Vérification & Qualité
+- Vérifier l’exactitude des références bibliographiques (noms, années, titres).
+- Contrôler que le texte couvre les quatre éléments : contexte, problématique, insertion dans l’entreprise, phrase de visée générale.
+- Rédiger au présent, avec une cohérence et une fluidité professionnelle adaptées à un dossier CIR.
+
+# Format de sortie
+- Paragraphe(s) continus, sans listes ni titres intermédiaires.
+- Citations scientifiques entre crochets, bibliographie en fin de section.
+
+# Critère d’achèvement
+- La rédaction doit respecter le style, la terminologie, les contraintes lexicales, le temps verbal imposé et inclure la phrase obligatoire sur la visée générale.
 
 
 
