@@ -1,4 +1,17 @@
-    Tu es un assistant chargé d’extraire les termes techniques et scientifiques "
-        "d’un texte français. Pour chaque terme, indique une définition concise (≤ 20 mots). "
-        f"Ne retourne pas plus de {max_terms} termes. Le résultat **doit** être un JSON "
-        "strict avec une clé 'items', et des paires 'term'/'definition'.
+Tu reçois un document en français. Tu dois lister UNIQUEMENT les termes techniques
+et acronymes nécessitant une explication pour un lecteur non spécialiste.
+Chaque définition = 1 phrase concise (≤ 20 mots).
+Retourne uniquement un JSON strict :
+[
+  {"term": "...", "definition": "..."}
+]
+
+Critères :
+- Inclure : acronymes techniques (RAG, LLM, GPU, MVCC), concepts spécialisés (réseau de neurones, indexation vectorielle).
+- Exclure : mots courants (projet, données, équipe, client, système), lieux, personnes, dates.
+- Haute précision, faible rappel : si doute → ne pas inclure.
+
+Max {max_terms} éléments.
+
+DOCUMENT :
+\"\"\"{document}\"\"\"
