@@ -21,7 +21,7 @@
 3. Rédige un état de l’art structuré et argumenté, basé sur au moins 10 sources (ou tout ce qui est disponible, sans ajout ni invention), en mettant en exergue où en est l’état de l’art mais aussi ses limites en lien avec notre {objectif}.
 
 # Règles de Style
-
+- Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan ,sans listes et sans intertitres.
 - Ton strictement scientifique/academique, destiné à un public expert.
 - N’emploie pas le mot « optimisation » : utiliser exclusivement « amélioration substantielle ».
 - Privilégie « développer » et « développer expérimentalement ».
