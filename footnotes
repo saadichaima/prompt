@@ -1,17 +1,15 @@
-Tu reçois un document en français. Tu dois lister UNIQUEMENT les termes techniques
-et acronymes nécessitant une explication pour un lecteur non spécialiste.
+Tu reçois un document en français. Liste UNIQUEMENT les termes techniques et acronymes
+qui nécessitent une brève explication pour un lecteur non spécialiste.
 Chaque définition = 1 phrase concise (≤ 20 mots).
-Retourne uniquement un JSON strict :
-[
-  {"term": "...", "definition": "..."}
-]
+Le résultat **doit** être un JSON "
+        "strict avec une clé 'items', et des paires 'term'/'definition'.
 
-Critères :
-- Inclure : acronymes techniques (RAG, LLM, GPU, MVCC), concepts spécialisés (réseau de neurones, indexation vectorielle).
-- Exclure : mots courants (projet, données, équipe, client, système), lieux, personnes, dates.
-- Haute précision, faible rappel : si doute → ne pas inclure.
+
+Inclure : acronymes techniques (RAG, LLM, GPU, MVCC), concepts spécialisés (indexation vectorielle, reranking hybride…).
+Exclure : mots courants (projet, données, équipe, client, système, résultat…), lieux, personnes, dates.
+Haute précision, faible rappel : en cas de doute, N’INCLUS PAS.
 
 Max {max_terms} éléments.
 
-DOCUMENT :
+DOCUMENT (extraits concaténés) :
 \"\"\"{document}\"\"\"
