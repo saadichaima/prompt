@@ -7,7 +7,7 @@ Cette partie doit exposer le contexte industriel, commercial et/ou scientifique 
 - Expliquer la problématique scientifique et technique, en soulignant pourquoi elle nécessite une activité de R&D.
 - Replacer cette opération dans le cadre de l’entreprise, en montrant sa cohérence avec la stratégie et les expertises de l’organisation.
 - Rédiger obligatoirement une phrase de transition sous la forme :  
-  « Pour répondre à ces problématiques, nous avons initié une opération de R&D en {annee} afin de {présentation de la visée générale}. »
+  « Pour répondre à ces problématiques, nous avons initié une opération de R&D en {annee} afin de ... »
 - Si l’opération comporte plusieurs projets, la présenter comme une opération unique avec une visée générale et une problématique communes.
 
 # Contraintes Rédactionnelles
