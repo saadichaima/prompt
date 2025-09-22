@@ -24,6 +24,9 @@ Cette section doit analyser les résultats de l’opération, montrer leur carac
 # Règles de rédaction
 - Style narratif scientifique et technique, sans intertitres, sans listes, sans puces.  
 - Chaque paragraphe doit être séparé par une ligne vide.  
+- Chaque idée majeure doit être rédigée comme un paragraphe distinct. 
+- Insère deux retours à la ligne consécutifs entre chaque paragraphe pour forcer la création d’un nouveau paragraphe dans le fichier Word. 
+- Ne jamais utiliser de simples retours à la ligne, toujours séparer les paragraphes par une ligne vide complète.
 - Employer principalement le passé composé, l’imparfait pour la concordance des temps.  
 - Employer « nous » au lieu de « on ».  
 - Substituer certains termes :  
