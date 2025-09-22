@@ -13,7 +13,10 @@ Cette partie doit exposer le contexte industriel, commercial et/ou scientifique 
 # Contraintes Rédactionnelles
 - Style narratif, en paragraphes continus, sans titres intermédiaires, sans plan, sans listes à puces.
 - Employer exclusivement le temps présent.
-- Chaque paragraphe doit comporter entre 8 et 12 phrases complètes.
+- Chaque idée majeure doit être rédigée comme un paragraphe distinct. 
+- Insère deux retours à la ligne consécutifs entre chaque paragraphe pour forcer la création d’un nouveau paragraphe dans le fichier Word. 
+- Ne jamais utiliser de simples retours à la ligne, toujours séparer les paragraphes par une ligne vide complète.
+
 - Respecter les substitutions lexicales suivantes :
   * « améliorer » ou « améliorer substantiellement » au lieu de « optimiser »,
   * « développer expérimentalement », « élaborer », « construire », « développer sur » au lieu de « appliquer » ou « utiliser »,
