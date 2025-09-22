@@ -1,34 +1,53 @@
-# Rôle et Mission
+# Objectif et mission
+Rédiger la section « 	Description du verrou scientifique ou technique identifié et justification de la nécessité d’engager une opération de R&D pour le résoudre  » d’un dossier Crédit d’Impôt Recherche (CIR). 
+Cette section doit présenter l’objectif poursuivi sur l’année, analyser de manière critique l’état de l’art en s’appuyant exclusivement sur {liste_articles}, puis conclure par la formulation d’un verrou scientifique ou technique.
 
-- Générer un état de l’art exhaustif et académique sur la base d’articles scientifiques précisément sélectionnés, dans le but de justifier la nécessité d’un programme de recherche spécifique ({objectif}) face aux limites actuelles des connaissances, en mettant particulièrement en exergue où en est l’état de l’art mais aussi ses limites en lien avec notre {objectif}.
+# Instructions de rédaction
+1. Ouvrir par un paragraphe qui énonce en une seule phrase l’objectif poursuivi sur l’année. 
+   - Cette phrase doit être au présent. 
+   - Elle doit être précise, quantifiée et mettre en avant la performance visée.
 
-# Instructions
+2. Rédiger plusieurs paragraphes consacrés à l’état de l’art en s’appuyant uniquement sur {liste_articles}. 
+   - Citer chaque publication au format [NOM, ANNEE]. 
+   - Inclure au moins une citation en italique entre guillemets avec une source. 
+   - Regrouper les articles par thématiques ou limites communes pour éviter la répétition. 
+   - Décrire les limites des articles au présent, et rédiger la mise en regard avec nos propres travaux au passé. 
+   - Mettre en évidence pourquoi les connaissances existantes ne permettent pas d’atteindre l’objectif annoncé.
 
-- Utiliser uniquement les articles fournis dans {liste_articles}, publiés dans la période {annee_debut} à {annee_fin} (rien après {annee}, aucune publication de {annee}).
-- Ne jamais inventer ni citer aucune référence absente de {liste_articles} ou de la période donnée.
-- Fonder chaque affirmation sur une publication, référencée en texte sous la forme [NOM, ANNEE] (nom du premier auteur, en majuscules, sans "et al.").
-- Ne pas dépasser ta limite maximale de tokens, mais sois détaillé, exhaustif et précis sur les contenus des articles.
+3. Rédiger un paragraphe de transition qui introduit le verrou scientifique ou technique.
 
-# Procédure de travail
+4. Conclure par un paragraphe formulant le verrou sous forme de question unique, en commençant par : 
+   « De quelle manière », « Par quel moyen » ou « De quelle façon pouvons-nous… ».  
+   - Cette question doit synthétiser toutes les incertitudes et limites identifiées dans l’état de l’art. 
+   - Elle doit être rédigée au présent.  
+   - Compléter par une justification expliquant en quoi lever ce verrou constitue une prise de risque scientifique et technique.
 
-- Commence par une checklist concise (3–7 étapes conceptuelles) de ce que tu vas faire pour structurer et vérifier ton état de l’art.
-- Après avoir rédigé chaque section majeure (objectif, définitions, état de l’art, bibliographie), effectue une validation rapide de la conformité avec les instructions (couverts articles, citations, format bibliographique) et corrige toute incohérence avant de poursuivre.
+# Contraintes lexicales et stylistiques
+- Chaque paragraphe doit être séparé par une ligne vide. 
+- Texte narratif, fluide, sans titres intermédiaires, sans listes à puces ni tirets. 
+- Employer exclusivement le temps présent, sauf pour la mise en regard avec nos travaux (au passé). 
+- Termes interdits : « optimisation », « implémentation », « conception », « utilisation », « emploi », « intégration », « mise en place », « mise au point », « faisabilité », « design », « innovant », « novateur », « fonctionnalité » et leurs dérivés. 
+- Termes à privilégier : 
+  * « amélioration substantielle » au lieu de « optimisation » ; 
+  * « développer », « développer expérimentalement », « élaborer », « construire » au lieu de « appliquer » ou « utiliser » ; 
+  * « éprouver » pour les résultats ; 
+  * « choisir » au lieu de « utiliser » ; 
+  * « cadre applicatif » au lieu de « besoin » ; 
+  * « technologie » au lieu de « solution » ou « produit » ; 
+  * « en matière de » au lieu de « en termes de ». 
+- Employer « nous » au lieu de « on ».
 
-# Structure du Texte
+# Format attendu
+- Paragraphe 1 : objectif annuel au présent, quantifié.  
+- Paragraphes 2 à n : état de l’art critique basé sur {liste_articles}.  
+- Paragraphe de transition.  
+- Paragraphe final : verrou scientifique sous forme de question + justification de la prise de risque.  
 
-1. Annonce l’objectif de recherche.
-2. Défini brièvement les technologies étudiées.
-3. Rédige un état de l’art structuré et argumenté, basé sur au moins 10 sources (ou tout ce qui est disponible, sans ajout ni invention), en mettant en exergue où en est l’état de l’art mais aussi ses limites en lien avec notre {objectif}.
 
-# Règles de Style
-- Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan ,sans listes et sans intertitres.
-- Ton strictement scientifique/academique, destiné à un public expert.
-- N’emploie pas le mot « optimisation » : utiliser exclusivement « amélioration substantielle ».
-- Privilégie « développer » et « développer expérimentalement ».
-- Remplace « solution » par « technologie ».
-- Interdiction des bullet points et de l’expression « et al. » dans le corps du texte.
-- Référence chaque occurrence d’un nom d’auteur par [NOM, ANNEE].
-
-# Contrôle Qualité
-- Vérifie systématiquement l’existence et la référenciation Google Scholar de chaque article utilisé.
-- Sois rigoureux dans l’attribution des citations/informations.
+# Critère d’achèvement
+La section est validée si elle comporte :  
+- un objectif annuel clair et quantifié,  
+- un état de l’art critique rédigé en plusieurs paragraphes distincts avec sources {liste_articles},  
+- au moins une citation en italique,  
+- un verrou scientifique formulé sous forme de question au présent,  
+- une justification de la prise de risque scientifique et technique.
