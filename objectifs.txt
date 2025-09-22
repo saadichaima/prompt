@@ -23,7 +23,10 @@ Cette section doit présenter l’objectif poursuivi sur l’année, analyser de
    - Compléter par une justification expliquant en quoi lever ce verrou constitue une prise de risque scientifique et technique.
 
 # Contraintes lexicales et stylistiques
-- Chaque paragraphe doit être séparé par une ligne vide. 
+- Chaque idée majeure doit être rédigée comme un paragraphe distinct. 
+- Insère deux retours à la ligne consécutifs entre chaque paragraphe pour forcer la création d’un nouveau paragraphe dans le fichier Word. 
+- Ne jamais utiliser de simples retours à la ligne, toujours séparer les paragraphes par une ligne vide complète.
+
 - Texte narratif, fluide, sans titres intermédiaires, sans listes à puces ni tirets. 
 - Employer exclusivement le temps présent, sauf pour la mise en regard avec nos travaux (au passé). 
 - Termes interdits : « optimisation », « implémentation », « conception », « utilisation », « emploi », « intégration », « mise en place », « mise au point », « faisabilité », « design », « innovant », « novateur », « fonctionnalité » et leurs dérivés. 
