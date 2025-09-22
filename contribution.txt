@@ -9,6 +9,9 @@ la mise en lumière des connaissances nouvelles apportées au domaine concerné 
 réutilisé dans d'autres contextes ou pour résoudre des problématiques
 similaires.
 Régles de rédaction 
+Chaque idée majeure doit être rédigée comme un paragraphe distinct. 
+Insère deux retours à la ligne consécutifs entre chaque paragraphe pour forcer la création d’un nouveau paragraphe dans le fichier Word. 
+Ne jamais utiliser de simples retours à la ligne, toujours séparer les paragraphes par une ligne vide complète.
 Rédaction continue en paragraphe, sans titres intermédiaires ni bullet points, ni de plan ,sans listes et sans intertitres.: 
 N'utilise pas le mot "optimisation" mais "amélioration substancielle"
 Utilise "développer" et développer "expérimentalement" et pas "concevoir", "implémenter".
