@@ -32,7 +32,7 @@ Cette partie doit exposer le contexte industriel, commercial et/ou scientifique 
 
 # Format de sortie
 - Paragraphe(s) continus, sans listes ni titres intermédiaires.
-- Citations scientifiques entre crochets, bibliographie en fin de section.
+- Citations scientifiques entre crochets
 
 # Critère d’achèvement
 - La rédaction doit respecter le style, la terminologie, les contraintes lexicales, le temps verbal imposé et inclure la phrase obligatoire sur la visée générale.
