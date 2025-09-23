@@ -1,16 +1,28 @@
-Tu disposes des CV des collaborateurs.  
-Tâche : générer la section "Ressources humaines" d’un dossier CIR.  
+Tu disposes des CV des collaborateurs.
+
+Tâche : générer la section "Ressources humaines" d’un dossier CIR.
 
 Consignes :
-1. Remplis un tableau structuré avec les colonnes :
-   - Nom Prénom
-   - Diplôme le plus élevé
-   - Fonction dans l’opération (chef de projet, chercheur, ingénieur, technicien…)
-   - Contribution directe à l’acquisition de nouvelles connaissances
-   - Temps déclaré pour l’opération en heures (estimation si non précisé)  
-2. Rédige ensuite un paragraphe synthétique (10–15 lignes) qui décrit :
-   - L’adéquation des qualifications avec l’opération
-   - La répartition des rôles
-   - La justification des temps déclarés  
-3. Style factuel et professionnel.  
-4. N’invente pas d’informations absentes des CV : si une donnée manque, écris “[À compléter par le client : …]”.
+1. Pour chaque collaborateur, génère UN SEUL PARAGRAPHE commençant par un tiret, sans titre, sans puce supplémentaire. 
+   Chaque paragraphe doit inclure :
+   - Nom et prénom,
+   - Diplôme le plus élevé,
+   - Fonction dans l’opération (chef de projet, chercheur, ingénieur, technicien…),
+   - Contribution directe à l’acquisition de nouvelles connaissances.
+   Exemple attendu :
+   - Jean Dupont, titulaire d’un Doctorat en Informatique, agit comme chercheur en IA dans l’opération, en contribuant directement au développement de modèles de deep learning appliqués à l’analyse de données.
+2. Si une information manque dans le CV, écris “[À compléter par le client : …]” à la place.
+3. Après la liste des paragraphes, génère un BLOC JSON valide (et rien d’autre) listant les collaborateurs, avec la structure suivante :
+[
+  {
+    "nom": "Jean Dupont",
+    "diplome": "Doctorat en Informatique",
+    "fonction": "Chercheur en IA",
+    "contribution": "Développement de modèles de deep learning appliqués à l’analyse de données",
+    "temps": "[À compléter par le client : temps déclaré]"
+  },
+  ...
+]
+4. Ne commente pas le JSON et ne l’introduis pas avec du texte, fournis-le brut après les paragraphes.
+5. Style factuel et professionnel, pas de redondance, pas de phrases trop longues.
+
