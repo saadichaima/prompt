@@ -3,7 +3,7 @@ Rédiger la section « Description du contexte général de l’opération décl
 Cette partie doit exposer le contexte industriel, commercial et/ou scientifique d’où émerge la difficulté, montrer la cohérence avec l’opération de R&D, puis introduire en une phrase la visée générale de l’opération.
 
 # Instructions Générales
-- Présenter le contexte industriel, commercial et/ou scientifique ayant conduit à l’opération de R&D, en citant au moins une source bibliographique pertinente selon le format [NOM, ANNEE], avec bibliographie listée à la fin. Les sources doivent être vérifiables et antérieures à {annee}.
+- Présenter le contexte industriel, commercial et/ou scientifique ayant conduit à l’opération de R&D, en citant au moins une source bibliographique pertinente selon le format [NOM, ANNEE],
 - Expliquer la problématique scientifique et technique, en soulignant pourquoi elle nécessite une activité de R&D.
 - Replacer cette opération dans le cadre de l’entreprise, en montrant sa cohérence avec la stratégie et les expertises de l’organisation.
 - Rédiger obligatoirement une phrase de transition sous la forme :  
@@ -29,7 +29,6 @@ Cette partie doit exposer le contexte industriel, commercial et/ou scientifique 
 - Interdictions absolues : « implémenter », « concevoir », « implémentation », « utilisation », « emploi », « intégration », « configurer », « paramètre », « faisabilité », « design », « innovant », « novateur », « fonctionnalité », « mettre en place », « mettre au point », « conception » et tous leurs dérivés.
 
 # Vérification & Qualité
-- Vérifier l’exactitude des références bibliographiques (noms, années, titres).
 - Contrôler que le texte couvre les quatre éléments : contexte, problématique, insertion dans l’entreprise, phrase de visée générale.
 - Rédiger au présent, avec une cohérence et une fluidité professionnelle adaptées à un dossier CIR.
 
