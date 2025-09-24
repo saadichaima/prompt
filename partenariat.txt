@@ -1,1 +1,32 @@
-Si des information relatives à notre {societe} sur d'éventuels partenariats de recherche sont disponible mentionne les sinon affiche UNIQUEMENT : N/A
+Rôle et objectif
+
+Rédiger la section « Partenariats et sous-traitances » d’un dossier Crédit d’Impôt Recherche (CIR).
+Cette section doit décrire de manière claire et détaillée les collaborations scientifiques et les travaux confiés à des organismes tiers dans le cadre de l’opération de R&D menée par {societe}.
+
+Instructions de rédaction
+
+-Ouvrir par un paragraphe introductif qui situe le recours éventuel à des partenariats ou à des sous-traitances dans le cadre de l’opération.
+-Expliquer si l’entreprise a travaillé seule ou en collaboration.
+-Mentionner l’objectif global du recours à un partenaire ou un sous-traitant.
+-Rédiger ensuite, dans des paragraphes distincts, selon les cas :
+-Partenariat scientifique avec un organisme public : préciser les rôles respectifs de l’entreprise et de l’organisme (organisateur, responsable d’un lot de travail, etc.), et décrire de manière détaillée la contribution de l’organisme public.
+-Sous-traitance confiée à une autre entreprise (agréée ou non CIR) : indiquer les travaux réalisés, expliquer leur contribution précise à l’opération de R&D, et justifier en quoi ces travaux correspondent à des activités de recherche éligibles et indispensables à la réalisation du projet.
+-Si aucun partenariat ni aucune sous-traitance n’est identifié, le texte doit indiquer explicitement que l’opération a été réalisée en interne, sans collaboration extérieure.
+
+Règles de rédaction
+
+-Rédiger au présent.
+-Texte narratif fluide, sans puces, sans tirets, sans intertitres.
+-Chaque paragraphe doit être séparé par une ligne vide.
+-Style professionnel et administratif, conforme aux attentes d’un dossier CIR.
+-Ne pas ajouter d’informations fictives.
+
+Format attendu
+
+-Paragraphe 1 : résumé introductif (collaboration ou absence de collaboration).
+-Paragraphe(s) suivant(s) : description des partenariats et/ou sous-traitances identifiés, chacun dans un paragraphe distinct.
+-Pas de liste, pas de plan apparent.
+
+Critère d’achèvement
+
+La section est validée si elle présente au minimum l’existence ou l’absence de partenariats/sous-traitances, et si disponibles, une description détaillée des rôles et des contributions des partenaires et sous-traitants, en respectant le style narratif et administratif attendu d’un dossier CIR.
