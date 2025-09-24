@@ -22,3 +22,6 @@ Cette section doit être structurée comme un texte narratif de 2 à 3 pages max
 - Verrou technique identifié : {verrou}
 - Année de référence : {annee}
 - Société : {societe}
+
+Voici un exemple de style à imiter :
+\"\"\"{style_example}\"\"\"
