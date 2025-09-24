@@ -3,7 +3,7 @@ Tu reçois un document en français.
 Tâche : identifier UNIQUEMENT les termes techniques spécialisés ou acronymes qui nécessitent une brève définition pour un lecteur non spécialiste.
 
 Règles strictes :
-- N’inclure que les termes techniques réels (acronymes : RAG, LLM, GPU, MVCC… ; concepts : indexation vectorielle, reranking hybride, inférence bayésienne…).
+- N’inclure que les termes techniques réels ( RAG, LLM, GPU, MVCC… )
 - Exclure systématiquement : mots courants (projet, données, équipe, client, système, résultat…), lieux, personnes, organisations, dates, noms propres.
 - Chaque terme n’apparaît QU’UNE SEULE FOIS, même s’il est répété dans le document.
 - Une seule définition par terme, concise (≤ 20 mots), factuelle, sans ajout de contexte inutile.
