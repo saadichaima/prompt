@@ -1,0 +1,30 @@
+ESCAPE TECHNOLOGIES1 est une entreprise fondée en 2020 par Tristan KALOS (CEO) et Antoine CAROSSIO (CTO). 
+
+Nous développons des solutions SaaS2 de cybersécurité destinée aux entreprises. Notre principal marché cible est la sécurité des applications, notamment dans le cadre du processus de développement (DevSecOps). À l'avenir, nous envisageons également de nous adresser au marché de la sécurité des infrastructures cloud3. 
+
+Le but de notre logiciel est de permettre aux utilisateurs de trouver quelles sont les faiblesses de sécurité que l’application possède.  
+
+Notre logiciel ESCAPE identifie automatiquement, une cinquantaine de vulnérabilités, lesquelles représentent près de 80% des vulnérabilités existantes. Il peut aussi détecter des vulnérabilités dites zero-days4, c’est-à-dire, qui sont jusque-là inconnues. De plus, ce traitement est automatisé via l’intelligence artificielle (IA) qui simule le comportement d’un pirate informatique attaquant l’API5. 
+
+En 2020, nous avons réalisé une levée de fonds de 1,6 million d’euros, en pré-amorçage, auprès de Frst Capital6, ainsi que de business angels7 français internationalement reconnus dans les domaines du développement logiciel et de la cybersécurité (cf. Figure 1).  
+
+En 2022, nous avons également réalisé une levée de fond de 3,1 millions d’euros auprès d’IRIS8, avec la participation de Frst et de business angels. 
+
+En mars 2020, nous avons intégré l’incubateur d’HEC à Station F9 à Paris, ainsi que le Connecteur du Crédit Agricole10 à Biarritz. 
+
+Nous avons également perçu un prêt d’amorçage investissement11 de la BPI Pau12 de 300 000 euros pour nous permettre d’étendre nos travaux plus rapidement sur le marché américain, lequel est très porteur en matière de cybersécurité.  
+
+Nous avons également reçu un montant total de 380 000 euros de la subvention régionale Grand Défi Cybersécurité13. 
+
+Nous avons aussi obtenu 1,2 million d’euros du concours BPI I-NOV Vague X14. 
+
+Depuis notre lancement, ce sont plus de 1 000 entreprises qui ont utilisé nos solutions, incluant notamment Shine15 et Sorare16 en France, ainsi que des entreprises internationales au Japon et aux États-Unis, dont Neo4J17 et Curative18. 
+
+Le programme R&D d’ESCAPE TECHNOLOGIES, lancé en 2020, porte sur le développement d’une plateforme qui extrait, comprend et teste l’architecture de chaque API au cours du processus de développement afin de détecter les vulnérabilités et les corriger avant la mise en production. 
+
+L’opération de R&D de ce dossier a commencé en 2022, elle est actuellement en cours et a pour but le développement d’un système universel de génération automatique de cas de test d’API permettant la détection des vulnérabilités.
+ 
+
+ 
+
+ 
