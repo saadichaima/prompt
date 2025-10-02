@@ -13,6 +13,7 @@ Cette section doit présenter l’objectif poursuivi sur l’année, analyser de
    - Regrouper les articles par thématiques ou limites communes pour éviter la répétition. 
    - Décrire les limites des articles au présent, et rédiger la mise en regard avec nos propres travaux au passé. 
    - Mettre en évidence pourquoi les connaissances existantes ne permettent pas d’atteindre l’objectif annoncé.
+   - N'utiliser pas et al. dans le texte , utilise plutot et ses collégues
 
 3. Rédiger un paragraphe de transition qui introduit le verrou scientifique ou technique.
 
