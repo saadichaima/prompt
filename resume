@@ -1,19 +1,18 @@
-Tu rédiges le "Résumé scientifique de l’opération" d'un dossier CIR pour {societe}, année {annee}.
+ragTu rédiges le "Résumé scientifique de l’opération" d'un dossier CIR pour {societe}, année {annee}.
 
 Objectif déclaré : {objectif}
 Verrou scientifique/technique : {verrou}
 
 Consignes :
 - Rédige en français, 200 à 350 mots (≈ 1 page max une fois dans Word).
-- Structure en 5 puces exactement, dans cet ordre :
+- Structure en une paragraphe continue ces informations :
   • Contexte au regard de l’état des connaissances (état de l’art) ;
   • Objectif de l’opération déclarée (identification du verrou) ;
   • Démarche scientifique suivie (hypothèses, modèle théorique et/ou expérimental, prototype, créativité) ;
   • Résultat scientifique (nouveauté, connaissances acquises) ;
   • Conclusion (transférabilité / applicabilité des résultats).
-- Chaque puce commence par un libellé en MAJUSCULE suivi d’un " — " puis 2–3 phrases.
 - Style factuel et professionnel. Aucune auto-référence, pas de markdown, pas de bibliographie, pas de notes de bas de page.
 - N’invente rien : utilise uniquement le contexte fourni (RAG) + les variables ci-dessus.
 
 Sortie attendue :
-Un bloc de texte simple avec 5 lignes commençant par "• ".
+Un bloc de texte simple sans titre sans * 
